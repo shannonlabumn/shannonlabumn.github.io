@@ -20,19 +20,18 @@ description: Potato Breeding, Genetics, and Genomics
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://shannonlabumn.github.io"
-  Research: "https://shannonlabumn.github.io/research"
-  About Us: "https://shannonlabumn.github.io/about"
-    - Current Members: "https://shannonlabumn.github.io/currentmembers"
-    - Past Members: "https://shannonlabumn.github.io/pastmembers"
-    - Us in the news: "https://shannonlabumn.github.io/news"
-  Useful Links: "https://shannonlabumn.github.io/links"
-  Collaborators: "https://shannonlabumn.github.io/collaborators"
-  FAQ: "https://shannonlabumn.github.io/faq"
-    - Breeding FAQ: "https://shannonlabumn.github.io/breeding"
-    - Genomics FAQ: "https://shannonlabumn.github.io/genomics"
-  Work With Us: "https://shannonlabumn.github.io/openings"
-  Contact: "https://shannonlabumn.github.io/contact"
+  Research: "research"
+  About Us:
+    - Current Members: "currentmembers"
+    - Past Members: "pastmembers"
+    - Us in the news: "news"
+  Useful Links: "links"
+  Collaborators: "collaborators"
+  FAQ: "faq"
+    - Breeding FAQ: "breeding"
+    - Genomics FAQ: "genomics"
+  Work With Us: "openings"
+  Contact: "contact"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
