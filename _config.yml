@@ -20,7 +20,6 @@ description: Potato Breeding, Genetics, and Genomics
 
 # List of links in the navigation bar
 navbar-links:
-#  Research: "research"
   About Us:
     - Current Members: "currentmembers"
     - Past Members: "pastmembers"
