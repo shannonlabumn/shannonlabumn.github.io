@@ -19,11 +19,11 @@ description: Potato Breeding, Genetics, and Genomics
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-#navbar-links:
+navbar-links:
 #  Research: "research"
-#  About Us:
-#    - Current Members: "currentmembers"
-#    - Past Members: "pastmembers"
+  About Us:
+    - Current Members: "currentmembers"
+    - Past Members: "pastmembers"
 #    - Us in the news: "news"
 #  Useful Links: "links"
 #  Collaborators: "collaborators"
