@@ -14,7 +14,7 @@ bigimg: "/img/group_photo.jpg"
 </figure>
 
 Dr. Shannon is an assistant professor of potato breeding, genetics, and genomics in the Department of Horticultural Science at the University of Minnesota.  She is a population and quantitative geneticist by training and she applies that experience to elucidate potato diversity and the complex nature of autotetraploid genomics as well as developing new potato varieties for Minnesota growers.  She earned an undergraduate degree in biology and anthropology at Grinnell College and a PhD in genetics from the University of Wisconsin. Her post doctoral research was done in the department of Biomedical Sciences at Cornell and the Department of Horticulture at the University of Wisconsin. She enjoys overly complicated board games, bird watching, and exploring the theater, fashion, and breweries of her new home in the Twin Cities. For a list of Dr. Shannon's publications, <a href="http://scholar.google.com/citations?hl=en&user=q4JUUF0AAAAJ"> click here. 
-<a/>  
+</a>
 <br/>
 </p>
 
