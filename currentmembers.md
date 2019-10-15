@@ -62,8 +62,6 @@ Husain is a PhD student in the Applied Plant Sciences program studying plant qua
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
   
   
 ### Rachel Figueroa
@@ -83,7 +81,6 @@ Recently graduated with a B.S. in Environmental Science, Rachel is a part of our
  <br/>
  <br/>
  <br/>
- <br/>
 
 
 ### Nicole Mihelich
@@ -91,17 +88,13 @@ Recently graduated with a B.S. in Environmental Science, Rachel is a part of our
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/nicole.jpg" width="280" alt="" align="left">
+	<img src="/img/nicole.png" width="300" alt="" align="left">
 </div>
 </figure>
 
 
 Nicole is a Ph.D. student and is currently co-advised by [`Dr. Eric Watkins`](https://horticulture.umn.edu/people/faculty/ericwatkins) in [`Turfgrass Breeding and Genetics`](https://turf.umn.edu/) and Dr. Laura Shannon in Potato Breeding and Genetics.  She earned a B.S. in Biochemistry with a minor in Environmental Science at University of Wisconsin- Madison.  She then earned her M.S. in Applied Plant Science studying soybean genomic variation.  She is currently researching how to improve fine fescue cool season grass species as a low-input turfgrass, specifically for rhizome production and tillering.</p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
+<br/>
 
 ### Heather Tuttle
 <p align="justify">
@@ -201,8 +194,7 @@ Sophia Fitcollins is currently an undergraduate student working towards her B.S.
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
+
 
 
 ### Thomas McGeehee
