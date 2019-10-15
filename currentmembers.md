@@ -13,7 +13,7 @@ bigimg: "/img/group_photo.jpg"
 </div>
 </figure>
 
-Dr. Shannon is an assistant professor of potato breeding, genetics, and genomics in the Department of Horticultural Science at the University of Minnesota.  She is a population and quantitative geneticist by training and she applies that experience to elucidate potato diversity and the complex nature of autotetraploid genomics as well as developing new potato varieties for Minnesota growers.  She earned an undergraduate degree in biology and anthropology at Grinnell College and a PhD in genetics from the University of Wisconsin. Her post doctoral research was done in the department of Biomedical Sciences at Cornell and the Department of Horticulture at the University of Wisconsin. She enjoys overly complicated board games, bird watching, and exploring the theater, fashion, and breweries of her new home in the Twin Cities. For a list of Dr. Shannon's publications, [`click here.`](https://scholar.google.com/citations?hl=en&user=q4JUUF0AAAAJ) <br\>
+Dr. Shannon is an assistant professor of potato breeding, genetics, and genomics in the Department of Horticultural Science at the University of Minnesota.  She is a population and quantitative geneticist by training and she applies that experience to elucidate potato diversity and the complex nature of autotetraploid genomics as well as developing new potato varieties for Minnesota growers.  She earned an undergraduate degree in biology and anthropology at Grinnell College and a PhD in genetics from the University of Wisconsin. Her post doctoral research was done in the department of Biomedical Sciences at Cornell and the Department of Horticulture at the University of Wisconsin. She enjoys overly complicated board games, bird watching, and exploring the theater, fashion, and breweries of her new home in the Twin Cities. For a list of Dr. Shannon's publications, [`click here.`](https://scholar.google.com/citations?hl=en&user=q4JUUF0AAAAJ) <br/>
 </p>
 
 ### Dr. Thomas Stefaniak
@@ -43,7 +43,7 @@ Crops that Thomas has worked with throughout
 his career include soybean, melon, dry bean, 
 tobacco, bermudagrass, sorghum, pea, lentil, 
 chickpea, and now potato. Thomas enjoys tennis, 
-exercise, reading, and streaming movies and television.<br\>
+exercise, reading, and streaming movies and television.<br/>
 </p>
 
 ### Husain Agha
@@ -57,15 +57,18 @@ exercise, reading, and streaming movies and television.<br\>
 
 Husain is a PhD student in the Applied Plant Sciences program studying plant quantitative and population genetics and is currently investigating the consequences of whole genome duplication. He received a Bachelor of Arts in Classical Humanities at the University of Missouri in 2018. When he is not in the lab, you can find him rock climbing or out on his bicycle! To find out more about Husain's research, [`click here.`](https://shannonlabumn.github.io/research)
 </p>
-  
-  
-  
-  
-  
-  
-  
-  
-  
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
   
   
 ### Rachel Figueroa
