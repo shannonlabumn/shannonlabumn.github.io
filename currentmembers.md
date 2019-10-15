@@ -13,7 +13,8 @@ bigimg: "/img/group_photo.jpg"
 </div>
 </figure>
 
-Dr. Shannon is an assistant professor of potato breeding, genetics, and genomics in the Department of Horticultural Science at the University of Minnesota.  She is a population and quantitative geneticist by training and she applies that experience to elucidate potato diversity and the complex nature of autotetraploid genomics as well as developing new potato varieties for Minnesota growers.  She earned an undergraduate degree in biology and anthropology at Grinnell College and a PhD in genetics from the University of Wisconsin. Her post doctoral research was done in the department of Biomedical Sciences at Cornell and the Department of Horticulture at the University of Wisconsin. She enjoys overly complicated board games, bird watching, and exploring the theater, fashion, and breweries of her new home in the Twin Cities. For a list of Dr. Shannon's publications, [click here.](https://scholar.google.com/citations?hl=en&user=q4JUUF0AAAAJ) <br/>
+Dr. Shannon is an assistant professor of potato breeding, genetics, and genomics in the Department of Horticultural Science at the University of Minnesota.  She is a population and quantitative geneticist by training and she applies that experience to elucidate potato diversity and the complex nature of autotetraploid genomics as well as developing new potato varieties for Minnesota growers.  She earned an undergraduate degree in biology and anthropology at Grinnell College and a PhD in genetics from the University of Wisconsin. Her post doctoral research was done in the department of Biomedical Sciences at Cornell and the Department of Horticulture at the University of Wisconsin. She enjoys overly complicated board games, bird watching, and exploring the theater, fashion, and breweries of her new home in the Twin Cities. For a list of Dr. Shannon's publications, [click here.](http://scholar.google.com/citations?hl=en&user=q4JUUF0AAAAJ)
+<br/>
 </p>
 
 ### Dr. Thomas Stefaniak
@@ -153,9 +154,6 @@ Laura Schulz is majoring in Plant Science and Bioproducts & Biosystems Engineeri
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
-
 
 ### John Larsen
 <p align="justify">
@@ -168,10 +166,6 @@ Laura Schulz is majoring in Plant Science and Bioproducts & Biosystems Engineeri
 
 
 John Larsen is majoring in history and plans on going to grad school to get his Ph.D. in modern European History. John's main duties in Shannon Lab include making media, transplanting plants, and doing daily plant maintenance that includes watering and vine killing, as well as tuber harvesting. In his free time, John enjoys listening to music, playing guitar, reading, and preparing presentations to entertain the rest of the lab!</p>
- <br/>
- <br/>
- <br/>
- <br/>
  <br/>
  <br/>
  <br/>
