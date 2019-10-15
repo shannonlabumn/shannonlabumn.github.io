@@ -13,7 +13,8 @@ bigimg: "/img/group_photo.jpg"
 </div>
 </figure>
 
-Dr. Shannon is an assistant professor of potato breeding, genetics, and genomics in the Department of Horticultural Science at the University of Minnesota.  She is a population and quantitative geneticist by training and she applies that experience to elucidate potato diversity and the complex nature of autotetraploid genomics as well as developing new potato varieties for Minnesota growers.  She earned an undergraduate degree in biology and anthropology at Grinnell College and a PhD in genetics from the University of Wisconsin. Her post doctoral research was done in the department of Biomedical Sciences at Cornell and the Department of Horticulture at the University of Wisconsin. She enjoys overly complicated board games, bird watching, and exploring the theater, fashion, and breweries of her new home in the Twin Cities. For a list of Dr. Shannon's publications, [click here.](http://www.scholar.google.com/citations?hl=en&user=q4JUUF0AAAAJ)
+Dr. Shannon is an assistant professor of potato breeding, genetics, and genomics in the Department of Horticultural Science at the University of Minnesota.  She is a population and quantitative geneticist by training and she applies that experience to elucidate potato diversity and the complex nature of autotetraploid genomics as well as developing new potato varieties for Minnesota growers.  She earned an undergraduate degree in biology and anthropology at Grinnell College and a PhD in genetics from the University of Wisconsin. Her post doctoral research was done in the department of Biomedical Sciences at Cornell and the Department of Horticulture at the University of Wisconsin. She enjoys overly complicated board games, bird watching, and exploring the theater, fashion, and breweries of her new home in the Twin Cities. For a list of Dr. Shannon's publications, <a href="http://scholar.google.com/citations?hl=en&user=q4JUUF0AAAAJ"> click here. 
+</a>
 <br/>
 </p>
 
@@ -56,7 +57,7 @@ exercise, reading, and streaming movies and television.<br/>
 </div>
 </figure>
 
-Husain is a PhD student in the Applied Plant Sciences program studying plant quantitative and population genetics and is currently investigating the consequences of whole genome duplication. He received a Bachelor of Arts in Classical Humanities at the University of Missouri in 2018. When he is not in the lab, you can find him rock climbing or out on his bicycle! To find out more about Husain's research, [`click here.`](https://shannonlabumn.github.io/research)
+Husain is a PhD student in the Applied Plant Sciences program studying plant quantitative and population genetics and is currently investigating the consequences of whole genome duplication. He received a Bachelor of Arts in Classical Humanities at the University of Missouri in 2018. When he is not in the lab, you can find him rock climbing or out on his bicycle! To find out more about Husain's research, [click here.](https://shannonlabumn.github.io/research)
 </p>
  <br/>
  <br/>
@@ -94,7 +95,7 @@ Recently graduated with a B.S. in Environmental Science, Rachel is a part of our
 </figure>
 
 
-Nicole is a Ph.D. student and is currently co-advised by [`Dr. Eric Watkins`](https://horticulture.umn.edu/people/faculty/ericwatkins) in [`Turfgrass Breeding and Genetics`](https://turf.umn.edu/) and Dr. Laura Shannon in Potato Breeding and Genetics.  She earned a B.S. in Biochemistry with a minor in Environmental Science at University of Wisconsin- Madison.  She then earned her M.S. in Applied Plant Science studying soybean genomic variation.  She is currently researching how to improve fine fescue cool season grass species as a low-input turfgrass, specifically for rhizome production and tillering.</p>
+Nicole is a Ph.D. student and is currently co-advised by [Dr. Eric Watkins](https://horticulture.umn.edu/people/faculty/ericwatkins) in [Turfgrass Breeding and Genetics](https://turf.umn.edu/) and Dr. Laura Shannon in Potato Breeding and Genetics.  She earned a B.S. in Biochemistry with a minor in Environmental Science at University of Wisconsin- Madison.  She then earned her M.S. in Applied Plant Science studying soybean genomic variation.  She is currently researching how to improve fine fescue cool season grass species as a low-input turfgrass, specifically for rhizome production and tillering.</p>
 <br/>
 
 ### Heather Tuttle
