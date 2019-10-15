@@ -84,11 +84,7 @@ Recently graduated with a B.S. in Environmental Science, Rachel is a part of our
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
+
 
 ### Nicole Mihelich
 <p align="justify">
@@ -106,10 +102,7 @@ Nicole is a Ph.D. student and is currently co-advised by [`Dr. Eric Watkins`](ht
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
- <br/>
- <br/>
+
 ### Heather Tuttle
 <p align="justify">
 
@@ -129,11 +122,7 @@ Heather is working toward her Master's degree in the Biomedical Informatics and 
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
+
 
 ### Katelyn Filbrandt
 <p align="justify">
@@ -151,10 +140,7 @@ As the Lab Manager of Shannon Lab group, Katelyn is currently working on virus e
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
- <br/>
- <br/>
+
 
 ## Undergraduates
 
@@ -176,10 +162,7 @@ Laura Schulz is majoring in Plant Science and Bioproducts & Biosystems Engineeri
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
- <br/>
- <br/>
+
 
 ### John Larsen
 <p align="justify">
@@ -192,10 +175,6 @@ Laura Schulz is majoring in Plant Science and Bioproducts & Biosystems Engineeri
 
 
 John Larsen is majoring in history and plans on going to grad school to get his Ph.D. in modern European History. John's main duties in Shannon Lab include making media, transplanting plants, and doing daily plant maintenance that includes watering and vine killing, as well as tuber harvesting. In his free time, John enjoys listening to music, playing guitar, reading, and preparing presentations to entertain the rest of the lab!</p>
- <br/>
- <br/>
- <br/>
- <br/>
  <br/>
  <br/>
  <br/>
@@ -224,10 +203,7 @@ Sophia Fitcollins is currently an undergraduate student working towards her B.S.
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
- <br/>
- <br/>
+
 
 ### Thomas McGeehee
 <p align="justify">
