@@ -13,7 +13,7 @@ bigimg: "/img/group_photo.jpg"
 </div>
 </figure>
 
-Dr. Shannon is an assistant professor of potato breeding, genetics, and genomics in the Department of Horticultural Science at the University of Minnesota.  She is a population and quantitative geneticist by training and she applies that experience to elucidate potato diversity and the complex nature of autotetraploid genomics as well as developing new potato varieties for Minnesota growers.  She earned an undergraduate degree in biology and anthropology at Grinnell College and a PhD in genetics from the University of Wisconsin. Her post doctoral research was done in the department of Biomedical Sciences at Cornell and the Department of Horticulture at the University of Wisconsin. She enjoys overly complicated board games, bird watching, and exploring the theater, fashion, and breweries of her new home in the Twin Cities. For a list of Dr. Shannon's publications, [`click here.`](https://scholar.google.com/citations?hl=en&user=q4JUUF0AAAAJ)
+Dr. Shannon is an assistant professor of potato breeding, genetics, and genomics in the Department of Horticultural Science at the University of Minnesota.  She is a population and quantitative geneticist by training and she applies that experience to elucidate potato diversity and the complex nature of autotetraploid genomics as well as developing new potato varieties for Minnesota growers.  She earned an undergraduate degree in biology and anthropology at Grinnell College and a PhD in genetics from the University of Wisconsin. Her post doctoral research was done in the department of Biomedical Sciences at Cornell and the Department of Horticulture at the University of Wisconsin. She enjoys overly complicated board games, bird watching, and exploring the theater, fashion, and breweries of her new home in the Twin Cities. For a list of Dr. Shannon's publications, [`click here.`](https://scholar.google.com/citations?hl=en&user=q4JUUF0AAAAJ)\
 </p>
 
 ### Dr. Thomas Stefaniak
@@ -65,7 +65,7 @@ Husain is a PhD student in the Applied Plant Sciences program studying plant qua
 \
 \
 \
-\
+ \
 ### Rachel Figueroa
 <p align="justify">
 
@@ -88,14 +88,14 @@ Recently graduated with a B.S. in Environmental Science, Rachel is a part of our
 \
 \
 \
-\
+ \
 
 ### Nicole Mihelich
 <p align="justify">
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/nicole.jpg" width="300" alt="" align="left">
+	<img src="/img/nicole.jpg" width="280" alt="" align="left">
 </div>
 </figure>
 
@@ -108,7 +108,7 @@ Nicole is a Ph.D. student and is currently co-advised by [`Dr. Eric Watkins`](ht
 \
 \
 \
-\
+ \
 
 ### Heather Tuttle
 <p align="justify">
@@ -133,14 +133,14 @@ Heather is working toward her Master's degree in the Biomedical Informatics and 
 \
 \
 \
-\
+ \
 
 ### Katelyn Filbrandt
 <p align="justify">
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/katelyn.jpg" width="300" alt="" align="left">
+	<img src="/img/katelyn.jpg" width="300" height="399" alt="" align="left">
 </div>
 </figure>
 
@@ -154,7 +154,7 @@ As the Lab Manager of Shannon Lab group, Katelyn is currently working on virus e
 \
 \
 \
-\
+ \
 
 ## Undergraduates
 
@@ -179,7 +179,7 @@ Laura Schulz is majoring in Plant Science and Bioproducts & Biosystems Engineeri
 \
 \
 \
-\
+ \
 
 ### John Larsen
 <p align="justify">
@@ -202,14 +202,14 @@ John Larsen is majoring in history and plans on going to grad school to get his 
 \
 \
 \
-\
+ \
 
 ### Sophia Fitzcollins
 <p align="justify">
 
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/sophy.png" width="300" alt="" align="left">
+	<img src="/img/sophy.jpg" width="300" alt="" align="left">
 </div>
 </figure>
 
@@ -227,7 +227,7 @@ Sophia Fitcollins is currently an undergraduate student working towards her B.S.
 \
 \
 \
-\
+ \
 
 ### Thomas McGeehee
 <p align="justify">
