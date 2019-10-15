@@ -97,6 +97,9 @@ Recently graduated with a B.S. in Environmental Science, Rachel is a part of our
 
 Nicole is a Ph.D. student and is currently co-advised by <a href="https://horticulture.umn.edu/people/faculty/ericwatkins"> Dr. Eric Watkins </a> in <a href="https://turf.umn.edu/"> Turfgrass Breeding and Genetics </a> and Dr. Laura Shannon in Potato Breeding and Genetics.  She earned a B.S. in Biochemistry with a minor in Environmental Science at University of Wisconsin- Madison.  She then earned her M.S. in Applied Plant Science studying soybean genomic variation.  She is currently researching how to improve fine fescue cool season grass species as a low-input turfgrass, specifically for rhizome production and tillering.</p>
 <br/>
+<br/>
+<br/>
+<br/>
 
 ### Heather Tuttle
 <p align="justify">
