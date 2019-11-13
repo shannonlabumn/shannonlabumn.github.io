@@ -28,3 +28,14 @@ Akpevwe worked with is in the summer of 2018.  She tested infertility between po
 ### Jessi Huege
 
 Jessi was around at the very beginning until Summer of 2018.  She spent her time in the lab experimenting with methods for clonal propagation and maintenance of wild potato relatives and took the lead on botanical phenotyping of late stage potato cultivars for plant variety protection applications.  We were recently notified that she had started her own freelance gardening business.
+
+### Poh Leng
+<p align="justify">
+
+<figure>
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/poh.jpg" width="300" alt="" align="left">
+</div>
+</figure>
+
+Poh Leng worked with Husain on the diploid project. She focused on pollen viability in the IVP101 lines and how that influences dihaploid extraction rates.
