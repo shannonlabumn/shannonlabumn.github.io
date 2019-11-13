@@ -197,7 +197,7 @@ Sophia Fitcollins is currently an undergraduate student working towards her B.S.
 
 
 
-### Thomas McGeehee
+### Thomas McGehee
 <p align="justify">
 
 <figure>
