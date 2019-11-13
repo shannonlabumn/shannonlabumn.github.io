@@ -171,7 +171,7 @@ Laura Schulz is majoring in Plant Science and Bioproducts & Biosystems Engineeri
 </figure>
 
 
-John Larsen is majoring in history and plans on going to grad school to get his Ph.D. in modern European History. John's main duties in Shannon Lab include making media, transplanting plants, and doing daily plant maintenance that includes watering and vine killing, as well as tuber harvesting. In his free time, John enjoys listening to music, playing guitar, reading, and preparing presentations to entertain the rest of the lab!</p>
+John Larsen is majoring in history with an emphasis on Food and Famine History. John's main duties in Shannon Lab include making media, transplanting plants, and doing daily plant maintenance that includes watering and vine killing, as well as tuber harvesting. In his free time, John enjoys listening to music, playing guitar, reading, and preparing presentations to entertain the rest of the lab!</p>
  <br/>
  <br/>
  <br/>
