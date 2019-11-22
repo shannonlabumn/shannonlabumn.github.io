@@ -23,7 +23,7 @@ navbar-links:
   About Us:
     - Current Members: "currentmembers"
     - Past Members: "pastmembers"
-    - Us in the news: "news"
+#    - Us in the news: "news"
   Research: "research"
 #  Useful Links: "links"
 #  Collaborators: "collaborators"
