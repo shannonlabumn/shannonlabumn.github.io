@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+bigimg: "/img/flowers.jpg"
 ---
 ### Overview1. Increasing our understanding of potato genomics, diversity, and evolution	* [Characterizing the diversity and history of potato](#head1)	* [Consequences of whole genome duplication](#head2)2. Developing and applying methods to speed the potato breeding process	* [Automated image analysis](#head3)	* [Creating diploid potato populations for breeding and genetics](#head4)	* [Genomic selection](#head5)3. Breeding new potato cultivars for four distinct market classes with increased resistance to biotic and abiotic stresses and enhanced nutrition and quality traits, which require fewer inputs (fertilizer, pesticides, irrigation, etc.)	* [Nitrogen use efficiency](#head6) and [the effects of reduced nitrogen on red potato yield, skin set, and color](#head7) 
 <br/><br/>#### <a name="head1"></a>Characterizing the diversity and history of potato
@@ -9,9 +10,8 @@ title: Research
 <figure>
 <div style="float:left; padding-right: 25px; padding-bottom: 25px">
 	<img src="/img/IMG_3507.jpg" width="300" alt="" align="right">
+</div></figure>
 </p>
-</div>
-</figure>
 Understanding the structure and history of genomes and how diversity is partitioned within populations has facilitated genetic gain in a variety of crops. Because of the complexity of the potato genome there are a range of outstanding questions about potato history including: the number and timing of domestication events, the identity of the wild progenitor, and the number of  cultivated species. We collaborate with the International Potato  Center in Lima and the US Potato Genebank in Sturgeon bay to develop  a better understanding of the history of potato. 
 <br/>#### <a name="head2"></a>Consequences of whole genome duplicationThis research explores whole genome duplication as an evolutionary force by identifying the consequences of WGD in respect to allelic dosage and deleterious alleles. <br/>#### <a name="head3"></a>Automated image analysisTubers from the breeding program are being imaged to create accurate and quantitative measures of horticultural traits that impact consumer acceptability in fresh market potatoes. <br/>#### <a name="head4"></a>Creating diploid potato populations for breeding and genetics<p align><figure><div style="float:right; padding-left: 25px; padding-bottom: 25px">	<img src="/img/flowers.jpg" width="300" alt="" align="left"></div></figure>
 </p>One option for addressing the complications of tetraploid breeding is to shift to breeding at the diploid level. Moving to a diploid, inbred-hybrid breeding system would allow for faster breeding cycles, better control of traits, and reduce the disease transmission problems that come with clonal propagation.  Because of these potential benefits, diploid breeding is of great interest to the potato community as a whole in both the public and private sectors.  <br/>
