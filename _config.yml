@@ -24,7 +24,7 @@ navbar-links:
     - Current Members: "currentmembers"
     - Past Members: "pastmembers"
   Research: "research"
-#    - Us in the news: "news"
+  Us in the news: "news"
 #  Useful Links: "links"
 #  Collaborators: "collaborators"
 #  FAQ: "faq"
