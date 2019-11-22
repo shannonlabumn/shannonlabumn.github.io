@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Research
-bigimg: "/img/flowers.jpg"
+bigimg: "/img/IMG_3210.jpg"
 ---
 ### Overview1. Increasing our understanding of potato genomics, diversity, and evolution	* [Characterizing the diversity and history of potato](#head1)	* [Consequences of whole genome duplication](#head2)2. Developing and applying methods to speed the potato breeding process	* [Automated image analysis](#head3)	* [Creating diploid potato populations for breeding and genetics](#head4)	* [Genomic selection](#head5)3. Breeding new potato cultivars for four distinct market classes with increased resistance to biotic and abiotic stresses and enhanced nutrition and quality traits, which require fewer inputs (fertilizer, pesticides, irrigation, etc.)	* [Nitrogen use efficiency](#head6) and [the effects of reduced nitrogen on red potato yield, skin set, and color](#head7) 
-<br/><br/>#### <a name="head1"></a>Characterizing the diversity and history of potato
+<br/><br/>
+<br/>#### <a name="head1"></a>Characterizing the diversity and history of potato
 
 <p align="justify">
 <figure>
