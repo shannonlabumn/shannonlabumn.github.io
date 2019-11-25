@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Us in the News
-bigimg: "/img/harvest_MAES.png"
+bigimg: "/img/harvest_MAES2.png"
 ---
 ### 2019
 * [This spud’s for you: A breeding revolution could unleash the potential of potato](https://www.sciencemag.org/news/2019/02/spud-s-you-breeding-revolution-could-unleash-potential-potato?r3f_986=https%3A//www.google.com/) - Feb. 7th, 2019
