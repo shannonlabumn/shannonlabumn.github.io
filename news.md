@@ -4,7 +4,7 @@ title: Us in the News
 bigimg: "/img/harvest_MAES2.png"
 ---
 ### 2019
-* [Our french fry supply is safe for now, but the future is uncertain](https://www.popsci.com/story/environment/potato-shortage-2019/) - December 5th, 2019
+* [Our french fry supply is safe for now, but the future is uncertain](https://www.popsci.com/story/environment/potato-shortage-2019/) - Dec. 5th, 2019
 * [Minnesota Agriculture in the Classroom Podcast: Dr. Cari Schmitz Carley discusses potato research and plant breeding](https://minnesota.agclassroom.org/educator/podcast.cfm) - March, 2019
     (listen [here](https://soundcloud.com/user-387867245/maitc-march-final]) on Soundcloud)
 * [2019 NPPGA Annual Research and Reporting Conference](http://www.valleypotatogrower.com/flipbookMarch2019mag/flipbook/?page=22) - March, 2019
