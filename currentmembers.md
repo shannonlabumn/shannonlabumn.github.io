@@ -31,16 +31,13 @@ Dr. Stefaniak is a Researcher 5, Breeding Specialist
 in the Department of Horticulture. He is a plant 
 breeder by training focusing on the development 
 of new high yielding cultivars with improved 
-disease tolerance and better quality. He began his 
-career in plant breeding at the age of sixteen as a 
-student assistant in his home town at the 
-University of Kentucky. Thomas earned his B.A. 
+disease tolerance and better quality. Thomas earned his B.A. 
 from Michigan State University majoring in 
 humanities, and his graduate degrees from the 
 University of Kentucky majoring in Crop Science, 
 minoring in plant physiology. He completed his 
 education as a post-doctoral researcher at Texas A 
-& M under the supervision of Dr. Bill Rooney. 
+& M. 
 Crops that Thomas has worked with throughout 
 his career include soybean, melon, dry bean, 
 tobacco, bermudagrass, sorghum, pea, lentil, 
