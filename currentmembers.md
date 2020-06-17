@@ -139,6 +139,11 @@ As the Lab Manager of Shannon Lab group, Katelyn is currently working on virus e
  <br/>
 
 
+### Muyideen Yusuf
+
+
+### Xiaoxi Meng
+
 ## Undergraduates
 
 ### Laura Schulz
@@ -182,7 +187,7 @@ John Larsen is majoring in history with an emphasis on Food and Famine History. 
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/tom.jpeg" width="300" alt="" align="left">
+	<img src="/img/tom.jpeg" width="300" alt="" align="right">
 </div>
 </figure>
 
