@@ -54,7 +54,7 @@ Poh Leng worked with Husain on the diploid project. She focused on pollen viabil
 </figure>
 
 
-Sophia Fitcollins is currently an undergraduate student working towards her B.S. in Plant Science with a minor in Architecture.  She assists with greenhouse maintenance as well as mixing media and transplanting.  In her spare time Sophy likes to learn new languages and read books.</p>
+Sophia Fitcollins was an undergraduate research assistant and graduated in 2020 with a B.S. in Plant Science with a minor in Architecture.  She assisted with greenhouse maintenance as well as mixing media and transplanting.  In her spare time Sophy likes to learn new languages and read books.</p>
  <br/>
  <br/>
  <br/>
