@@ -75,7 +75,7 @@ Husain is a PhD student in the Applied Plant Sciences program studying plant qua
 </figure>
 
 
-Recently graduated with a B.S. in Environmental Science, Rachel is a part of our team as researcher 1.  She will be researching disease resistance in potatoes through DNA-based markers and managing our growth chambers and greenhouse.  She enjoys exploring the lakes and parks around the Twin Cities, reading, and making jewelry in her spare time.</p>
+Rachel is a part of our team as researcher 1.  She will be researching disease resistance in potatoes through DNA-based markers and managing our growth chambers and greenhouse.  She enjoys exploring the lakes and parks around the Twin Cities, reading, and making jewelry in her spare time.</p>
  <br/>
  <br/>
  <br/>
