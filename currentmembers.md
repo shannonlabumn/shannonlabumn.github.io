@@ -135,14 +135,22 @@ As the Lab Manager of Shannon Lab group, Katelyn is currently working on virus e
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
+
 
 
 ### Muyideen Yusuf
+ <br/>
+ <br/>
+ <br/>
+
 
 
 ### Xiaoxi Meng
+ <br/>
+ <br/>
+ <br/>
+
+
 
 ## Undergraduates
 
