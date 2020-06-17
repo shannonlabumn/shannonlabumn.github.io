@@ -34,11 +34,12 @@ Jessi was around at the very beginning until Summer of 2018.  She spent her time
 
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/poh.jpg" width="200" alt="" align="left">
+	<img src="/img/poh.jpg" width="100" alt="" align="left">
 </div>
 </figure>
 
 Poh Leng worked with Husain on the diploid project. She focused on pollen viability in the IVP101 lines and how that influences dihaploid extraction rates.
+ <br/>
  <br/>
  <br/>
  <br/>
@@ -54,7 +55,7 @@ Poh Leng worked with Husain on the diploid project. She focused on pollen viabil
 
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/sophy.jpg" width="200" alt="" align="right">
+	<img src="/img/sophy.jpg" width="100" alt="" align="right">
 </div>
 </figure>
 
@@ -67,4 +68,3 @@ Sophia Fitcollins was an undergraduate research assistant and graduated in 2020 
  <br/>
  <br/>
  <br/>
- </p>
