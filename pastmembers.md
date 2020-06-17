@@ -46,11 +46,10 @@ Poh Leng worked with Husain on the diploid project. She focused on pollen viabil
  <br/>
  <br/>
  <br/>
- 
+ </p>
 
 
 ### Sophia Fitzcollins
-
 <p align="justify">
 
 <figure>
@@ -68,3 +67,4 @@ Sophia Fitcollins was an undergraduate research assistant and graduated in 2020 
  <br/>
  <br/>
  <br/>
+ </p>
