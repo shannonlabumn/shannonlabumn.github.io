@@ -45,8 +45,6 @@ Poh Leng worked with Husain on the diploid project. She focused on pollen viabil
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
  </p>
 
 
@@ -66,5 +64,4 @@ Sophia Fitzcollins was with the lab as an undergraduate research assistant from 
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
+
