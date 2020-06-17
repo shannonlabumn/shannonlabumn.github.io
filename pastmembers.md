@@ -43,6 +43,9 @@ Poh Leng worked with Husain on the diploid project. She focused on pollen viabil
  <br/>
  <br/>
  <br/>
+ <br/>
+ <br/>
+ <br/>
  
 
 
@@ -52,7 +55,7 @@ Poh Leng worked with Husain on the diploid project. She focused on pollen viabil
 
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/sophy.jpg" width="200" alt="" align="left">
+	<img src="/img/sophy.jpg" width="200" alt="" align="right">
 </div>
 </figure>
 
