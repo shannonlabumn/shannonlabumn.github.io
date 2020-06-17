@@ -173,24 +173,7 @@ John Larsen is majoring in history with an emphasis on Food and Famine History. 
  <br/>
  <br/>
 
-### Sophia Fitzcollins
-<p align="justify">
 
-<figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/sophy.jpg" width="300" alt="" align="left">
-</div>
-</figure>
-
-
-Sophia Fitcollins is currently an undergraduate student working towards her B.S. in Plant Science with a minor in Architecture.  She assists with greenhouse maintenance as well as mixing media and transplanting.  In her spare time Sophy likes to learn new languages and read books.</p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
 
 
 
