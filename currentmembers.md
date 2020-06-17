@@ -194,8 +194,8 @@ John Larsen is majoring in history with an emphasis on Food and Famine History. 
 <p align="justify">
 
 <figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/tom.jpeg" width="300" alt="" align="right">
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/tom.jpeg" width="300" alt="" align="left">
 </div>
 </figure>
 
