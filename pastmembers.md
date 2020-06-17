@@ -39,13 +39,15 @@ Jessi was around at the very beginning until Summer of 2018.  She spent her time
 </figure>
 
 Poh Leng worked with Husain on the diploid project. She focused on pollen viability in the IVP101 lines and how that influences dihaploid extraction rates.
-
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ 
 
 
 ### Sophia Fitzcollins
-<br/>
-<br/>
-<br/>
+
 <p align="justify">
 
 <figure>
