@@ -23,7 +23,7 @@ Nansea was in the lab in the Spring of 2019 and worked on a diploid potato GWAS 
 
 ### Akpevwe Ikoba
 
-Akpevwe worked with is in the summer of 2018.  She tested infertility between potato cultivars and a wild species we use for breeding, data manipulation, and some greenhouse work.  We were recently notified that she will be attending the University of Colorado to study cardiovascular aging.
+Akpevwe worked with us in the summer of 2018.  She tested infertility between potato cultivars and a wild species we use for breeding, data manipulation, and some greenhouse work.  We were recently notified that she will be attending the University of Colorado to study cardiovascular aging.
 
 ### Jessi Huege
 
@@ -60,7 +60,7 @@ Poh Leng worked with Husain on the diploid project. She focused on pollen viabil
 </figure>
 
 
-Sophia Fitcollins was an undergraduate research assistant and graduated in 2020 with a B.S. in Plant Science and a minor in Architecture.  She assisted with greenhouse maintenance as well as mixing media and transplanting.  In her spare time Sophy likes to learn new languages and read books.</p>
+Sophia Fitzcollins was with the lab as an undergraduate research assistant from the Fall of 2018 to the Spring of 2020. She graduated with a B.S. in Plant Science and a minor in Architecture.  She assisted with greenhouse maintenance as well as mixing media and transplanting.  In her spare time Sophy likes to learn new languages and read books.</p>
  <br/>
  <br/>
  <br/>
