@@ -139,8 +139,19 @@ As the Lab Manager of Shannon Lab group, Katelyn is currently working on virus e
 
 
 ### Muyideen Yusuf
+<p align="justify">
+
+<figure>
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/yusuf.jpg" width="300" alt="" align="left">
+</div>
+</figure>
+
+
+Yusuf is a PhD student in the Applied Plant Sciences program studying breeding and molecular genetics. He is currently evaluating strategies for inbred development from potato diploid population. He earned a Master of Science in Plant Genetics from the University of Ibadan in Nigeria. He loves reading, making jokes, traveling, and making new friends.
  <br/>
- 
+ <br/>
+ <br/>
 
 
 
