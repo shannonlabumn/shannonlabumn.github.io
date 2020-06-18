@@ -148,7 +148,8 @@ As the Lab Manager of Shannon Lab group, Katelyn is currently working on virus e
 </figure>
 
 
-Yusuf is a PhD student in the Applied Plant Sciences program studying breeding and molecular genetics. He is currently evaluating strategies for inbred development from potato diploid population. He earned a Master of Science in Plant Genetics from the University of Ibadan in Nigeria. He loves reading, making jokes, traveling, and making new friends.
+Yusuf is a PhD student in the Applied Plant Sciences program studying breeding and molecular genetics. He is currently evaluating strategies for inbred development from potato diploid population. He earned his M.S. in Plant Genetics from the University of Ibadan in Nigeria. He loves reading, making jokes, traveling, and making new friends.
+ </p>
  <br/>
  <br/>
  <br/>
