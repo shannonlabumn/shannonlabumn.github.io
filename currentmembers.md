@@ -163,7 +163,7 @@ Yusuf is a PhD student in the Applied Plant Sciences program studying breeding a
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/xiaoxi.jpg" width="300" height="399" alt="" align="left">
+	<img src="/img/xiaoxi.JPG" width="300" height="399" alt="" align="left">
 </div>
 </figure>
 
