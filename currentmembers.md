@@ -13,7 +13,8 @@ bigimg: "/img/group_photo.jpg"
 </div>
 </figure>
 
-Dr. Shannon is an assistant professor of potato breeding, genetics, and genomics in the Department of Horticultural Science at the University of Minnesota.  She is a population and quantitative geneticist by training and she applies that experience to elucidate potato diversity and the complex nature of autotetraploid genomics as well as developing new potato varieties for Minnesota growers.  She earned an undergraduate degree in biology and anthropology at Grinnell College and a PhD in genetics from the University of Wisconsin. Her post doctoral research was done in the department of Biomedical Sciences at Cornell and the Department of Horticulture at the University of Wisconsin. She enjoys overly complicated board games, bird watching, and exploring the theater, fashion, and breweries of her new home in the Twin Cities. For a list of Dr. Shannon's publications, <a href="http://scholar.google.com/citations?hl=en&user=q4JUUF0AAAAJ"> click here. 
+Dr. Shannon is an assistant professor of potato breeding, genetics, and genomics in the Department of Horticultural Science at the University of Minnesota.  She is a population and quantitative geneticist by training and she applies that experience to elucidate potato diversity and the complex nature of autotetraploid genomics as well as developing new potato varieties for Minnesota growers.  She earned an undergraduate degree in biology and anthropology at Grinnell College and a PhD in genetics from the University of Wisconsin. Her post doctoral research was done in the department of Biomedical Sciences at Cornell and the Department of Horticulture at the University of Wisconsin. She enjoys overly complicated board games, bird watching, and exploring the theater, fashion, and breweries of her new home in the Twin Cities. 
+For a list of Dr. Shannon's publications, <a href="http://scholar.google.com/citations?hl=en&user=q4JUUF0AAAAJ"> click here. 
 </a>
 <br/>
 </p>
@@ -158,6 +159,18 @@ Yusuf is a PhD student in the Applied Plant Sciences program studying breeding a
 
 
 ### Xiaoxi Meng
+<p align="justify">
+
+<figure>
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/xiaoxi.jpg" width="300" height="399" alt="" align="left">
+</div>
+</figure>
+
+Xiaoxi is a post-doc in Shannon Lab. She earned her B.S. in plant pathology and entomology at Nanjing Agriculture University in Chine and Ph.D. in biochemistry and molecular biology from Mississippi State University where she studied protein post-translational modifications, gene function, and QTL mapping in rice. She joined the lab after completing a post-doc at the University of Nebraska-Lincoln, where she involved research aspects on machine learning classification and comparative genomics of grasses species including maize, sorghum, and seteria. In the Shannon Lab, Xiaoxi is studying dihaploid potatoes; and GWAS on morphological traits. 
+For a list of Xiaoxi's publications, <a href = "https://scholar.google.com/citations?hl=en&user=lDDTcioAAAAJ"> click here.
+</a>
+</p>
 <br/>
 <br/>
 
