@@ -3,8 +3,12 @@ layout: page
 title: Us in the News
 bigimg: "/img/harvest_MAES2.png"
 ---
+### 2020
+# [Northern Plains Potato Growers Association Field Day: Dr. Laura Shannon shares our research and breeding updates with growers virtually](https://www.youtube.com/watch?v=Fo00-M83g3Q&list=PLnn8HanJ32l48FRx8JYWKRmvQwTes3bFx&index=6&t=0s) - August 2020
+
+
 ### 2019
-* [Minnesota Agriculture in the Classroom Podcast: Dr. Cari Schmitz Carley discusses potato research and plant breeding](https://minnesota.agclassroom.org/educator/podcast.cfm) - March, 2019
+* [Minnesota Agriculture in the Classroom Podcast: Dr. Cari Schmitz Carley discusses potato research and plant breeding](https://minnesota.agclassroom.org/educator/podcast.cfm) - March 2019
     (listen [here](https://soundcloud.com/user-387867245/maitc-march-final]) on Soundcloud)
 * [2019 NPPGA Annual Research and Reporting Conference](http://www.valleypotatogrower.com/flipbookMarch2019mag/flipbook/?page=22) - March, 2019
 * [This spud’s for you: A breeding revolution could unleash the potential of potato](https://www.sciencemag.org/news/2019/02/spud-s-you-breeding-revolution-could-unleash-potential-potato?r3f_986=https%3A//www.google.com/) - Feb. 7th, 2019
