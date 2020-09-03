@@ -5,6 +5,7 @@ bigimg: "/img/harvest_MAES2.png"
 ---
 ### 2020
 * [Northern Plains Potato Growers Association Field Day: Dr. Laura Shannon shares our research and breeding updates with growers virtually](https://www.youtube.com/watch?v=Fo00-M83g3Q&list=PLnn8HanJ32l48FRx8JYWKRmvQwTes3bFx&index=6&t=0s) - August 2020
+* [North Central Research and Outreach Center Field Day videos! Find videos from researchers doing work at the NCROC, including Dr. Laura Shannon talking potato breeding.](https://ncroc.cfans.umn.edu/news-events/virtual-visitors-day) - August 2020
 
 
 ### 2019
