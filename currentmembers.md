@@ -184,7 +184,7 @@ For a list of Xiaoxi's publications, <a href = "https://scholar.google.com/citat
 </figure>
 
 
-Yusuf is a PhD student in the Applied Plant Sciences program studying breeding and molecular genetics. He is currently evaluating strategies for inbred development from potato diploid population. He earned his M.S. in Plant Genetics from the University of Ibadan in Nigeria. He loves reading, making jokes, traveling, and making new friends. </p>
+Michael is a cool guy who loves to science on the weekdays and to partay all weekend! </p>
  <br/>
  <br/>
  <br/>
