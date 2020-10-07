@@ -174,23 +174,24 @@ For a list of Xiaoxi's publications, <a href = "https://scholar.google.com/citat
 <br/>
 <br/>
 
-### Michael
+### Michael Miller
 <p align="justify">
 
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/yusuf.jpg" width="300" alt="" align="left">
+	<img src="/img/Michael.jpg" width="300" alt="" align="left">
 </div>
 </figure>
 
 
-Michael is a cool guy who loves to science on the weekdays and to partay all weekend! </p>
+Michael is a Master's student in the Applied Plant Sciences program. He earned a B.S. in Plant Science from the University of Minnesota. He is currently working on the development of a program to quantify tuber traits such as size, color, bruising, and disease using image analysis to improve trait heritability. Michael enjoys fishing, Alpine skiing, and traveling.  </p>
  <br/>
  <br/>
  <br/>
  <br/>
-
-
+ <br/>
+ <br/>
+ <br/>
 
 
 ## Undergraduates
