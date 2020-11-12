@@ -242,3 +242,18 @@ John Larsen is majoring in history with an emphasis on Food and Famine History. 
 </figure>
 
 Thomas McGehee is an undergraduate student studying Art and Genetics in the College of Biological Sciences. He joined the Shannon Lab this summer as a Field and Lab Assistant. He has really enjoyed watering and caring for the plants and helping out in the field. Although he is unsure where his future will take him, his experiences in the Shannon lab have changed his perspective towards plant breeding and opened his eyes to the many rewarding applications of genetics.</p>
+ <br/>
+ <br/>
+ <br/>
+
+
+### Elijah Lartey
+<p align="justify">
+
+<figure>
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/ElijahG.jpeg" width="300" alt="" align="right">
+</div>
+</figure>
+
+Elijah is majoring in Plant Science after originally attending the U of M for music in 2015. They became interested in ecology after working for the Youth Conservation Corps of Minnesota in 2014. After that they picked up gardening as a hobby and eventually decided to study the subject in 2018. In their free time they still like to make music as well as bake and be a tea snob.</p>
