@@ -251,8 +251,8 @@ Thomas McGehee is an undergraduate student studying Art and Genetics in the Coll
 <p align="justify">
 
 <figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/ElijahG.jpg" width="300" alt="" align="right">
+<div style="float: left; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/ElijahG.jpg" width="300" alt="" align="left">
 </div>
 </figure>
 
