@@ -4,8 +4,12 @@ title: Us in the News
 bigimg: "/img/harvest_MAES2.png"
 ---
 ### 2020
+* [Valley Potato Grower Magazine: 2020 NPPGA Virtual Field Day](http://www.valleypotatogrower.com/flipbookSeptOct2020mag/flipbook/?page=24) - September/October 2020
 * [Northern Plains Potato Growers Association Field Day: Dr. Laura Shannon shares our research and breeding updates with growers virtually](https://www.youtube.com/watch?v=Fo00-M83g3Q&list=PLnn8HanJ32l48FRx8JYWKRmvQwTes3bFx&index=6&t=0s) - August 2020
 * [North Central Research and Outreach Center Field Day videos! Find videos from researchers doing work at the NCROC, including Dr. Laura Shannon talking potato breeding.](https://ncroc.cfans.umn.edu/news-events/virtual-visitors-day) - August 2020
+* [Valley Potato Grower Magazine: 2020 Potato Field Research in North Dakota and Minnesota](http://www.valleypotatogrower.com/flipbookJulyAug2020mag/flipbook/?page=18) - July/August 2020
+* [Valley Potato Grower Magazine: 2020 NPPGA Research Reporting Conference](http://www.valleypotatogrower.com/flipbookMarch2020mag/flipbook/?page=20) - March 2020
+* [Valley Potato Grower Magazine: Potato Expo Continues to Grow](http://www.valleypotatogrower.com/flipbookFeb2020mag/flipbook/?page=2) - February 2020
 
 
 ### 2019
