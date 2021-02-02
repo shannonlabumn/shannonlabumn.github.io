@@ -270,6 +270,7 @@ Elijah is majoring in Plant Science after originally attending the U of M for mu
  <br/>
 
 ### Adynn Stedillie
+<p align="justify">
 
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
