@@ -257,3 +257,16 @@ Thomas McGehee is an undergraduate student studying Art and Genetics in the Coll
 </figure>
 
 Elijah is majoring in Plant Science after originally attending the U of M for music in 2015. They became interested in ecology after working for the Youth Conservation Corps of Minnesota in 2014. After that they picked up gardening as a hobby and eventually decided to study the subject in 2018. In their free time they still like to make music as well as bake and be a tea snob.</p>
+ <br/>
+ <br/>
+ <br/>
+
+### Adynn Stedillie
+
+<figure>
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/adynn.jpg" width="300" alt="" align="left">
+</div>
+</figure>
+
+Adynn is a first year plant science major with an interest in selective breeding and nutrient cycling. She's excited to work in this lab to learn more about the growing process and the life cycles of plants and how they can be altered!</p>
