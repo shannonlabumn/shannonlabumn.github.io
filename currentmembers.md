@@ -55,7 +55,7 @@ exercise, reading, and streaming movies and television.<br/>
 </div>
 </figure>
 
-Husain is a PhD student in the Applied Plant Sciences program studying plant quantitative and population genetics and is currently investigating the consequences of whole genome duplication. He received a Bachelor of Arts in Classical Humanities at the University of Missouri in 2018. When he is not in the lab, you can find him rock climbing or out on his bicycle! To find out more about Husain's research, <a href="https://shannonlabumn.github.io/research"> click here. </a>
+Husain is a PhD student in the Plant & Microbial Biology program studying plant quantitative and population genetics and is currently investigating the consequences of whole genome duplication. He received a Bachelor of Arts in Classical Humanities at the University of Missouri in 2018. When he is not in the lab, you can find him rock climbing or out on his bicycle! To find out more about Husain's research, <a href="https://shannonlabumn.github.io/research"> click here. </a>
 </p>
  <br/>
  <br/>
