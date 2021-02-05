@@ -28,22 +28,7 @@ For a list of Dr. Shannon's publications, <a href="http://scholar.google.com/cit
 </div>
 </figure>
 
-Dr. Stefaniak is a Researcher 5, Breeding Specialist 
-in the Department of Horticulture. He is a plant 
-breeder by training focusing on the development 
-of new high yielding cultivars with improved 
-disease tolerance and better quality. Thomas earned his B.A. 
-from Michigan State University majoring in 
-humanities, and his graduate degrees from the 
-University of Kentucky majoring in Crop Science, 
-minoring in plant physiology. He completed his 
-education as a post-doctoral researcher at Texas A 
-& M. 
-Crops that Thomas has worked with throughout 
-his career include soybean, melon, dry bean, 
-tobacco, bermudagrass, sorghum, pea, lentil, 
-chickpea, and now potato. Thomas enjoys tennis, 
-exercise, reading, and streaming movies and television.<br/>
+Dr. Stefaniak is a Researcher 5, Breeding Specialist in the Department of Horticulture. He is a plant breeder by training focusing on the development of new high yielding cultivars with improved disease tolerance and better quality. Thomas earned his B.A. from Michigan State University majoring in humanities, and his graduate degrees from the University of Kentucky majoring in Crop Science, minoring in plant physiology. He completed his education as a post-doctoral researcher at Texas A & M. Crops that Thomas has worked with throughout his career include soybean, melon, dry bean, tobacco, bermudagrass, sorghum, pea, lentil, chickpea, and now potato. Thomas enjoys tennis, exercise, reading, and streaming movies and television.<br/>
 </p>
 
 ### Husain Agha
@@ -55,12 +40,8 @@ exercise, reading, and streaming movies and television.<br/>
 </div>
 </figure>
 
-Husain is a PhD student in the Plant & Microbial Biology program studying plant quantitative and population genetics and is currently investigating the consequences of whole genome duplication. He received a Bachelor of Arts in Classical Humanities at the University of Missouri in 2018. When he is not in the lab, you can find him rock climbing or out on his bicycle! To find out more about Husain's research, <a href="https://shannonlabumn.github.io/research"> click here. </a>
+Husain is a PhD student in the Plant & Microbial Biology program studying plant quantitative and population genetics and is currently investigating the consequences of whole genome duplication. He received a Bachelor of Arts in Classical Humanities at the University of Missouri in 2018. When he is not in the lab, you can find him rock climbing or out on his bicycle! Husain is passionate about improving diversity, equity, and inclusion of underrepresented minorities in the sciences, and currently serves as a member of his graduate program's DEI committee. To find out more about Husain's research, <a href="https://shannonlabumn.github.io/research"> click here. </a>
 </p>
- <br/>
- <br/>
- <br/>
- <br/>
  <br/>
  <br/>
  <br/>
