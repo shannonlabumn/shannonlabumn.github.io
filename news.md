@@ -3,6 +3,10 @@ layout: page
 title: Us in the News
 bigimg: "/img/harvest_MAES2.png"
 ---
+### 2021
+* [Dr. Shannon presents for UMN's Breeding Center - "Sequencing, Math, and Avoidance: a few approaches to autotetraploid breeding."](https://www.youtube.com/watch?v=w0QL5titNv4)
+
+
 ### 2020
 * [Valley Potato Grower Magazine: 2020 NPPGA Virtual Field Day](http://www.valleypotatogrower.com/flipbookSeptOct2020mag/flipbook/?page=24) - September/October 2020
 * [Northern Plains Potato Growers Association Field Day: Dr. Laura Shannon shares our research and breeding updates with growers virtually](https://www.youtube.com/watch?v=Fo00-M83g3Q&list=PLnn8HanJ32l48FRx8JYWKRmvQwTes3bFx&index=6&t=0s) - August 2020
