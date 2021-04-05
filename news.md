@@ -4,7 +4,7 @@ title: Us in the News
 bigimg: "/img/harvest_MAES2.png"
 ---
 ### 2021
-* [Dr. Shannon presents for UMN's Breeding Center - "Sequencing, Math, and Avoidance: a few approaches to autotetraploid breeding."](https://www.youtube.com/watch?v=w0QL5titNv4)
+* [Dr. Shannon presents for UMN's Breeding Center - "Sequencing, Math, and Avoidance: a few approaches to autotetraploid breeding."](https://www.youtube.com/watch?v=w0QL5titNv4) - March 2021
 
 
 ### 2020
