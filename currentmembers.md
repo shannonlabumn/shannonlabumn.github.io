@@ -194,39 +194,6 @@ Laura Schulz is majoring in Plant Science and Bioproducts & Biosystems Engineeri
  <br/>
  <br/>
 
-### John Larsen
-<p align="justify">
-
-<figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/john.jpg" width="300" alt="" align="left">
-</div>
-</figure>
-
-
-John Larsen is majoring in history with an emphasis on Food and Famine History. John's main duties in Shannon Lab include making media, transplanting plants, and doing daily plant maintenance that includes watering and vine killing, as well as tuber harvesting. In his free time, John enjoys listening to music, playing guitar, reading, and preparing presentations to entertain the rest of the lab!</p>
- <br/>
- <br/>
- <br/>
-
-
-
-
-
-### Thomas McGehee
-<p align="justify">
-
-<figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/tom.jpeg" width="300" alt="" align="left">
-</div>
-</figure>
-
-Thomas McGehee is an undergraduate student studying Art and Genetics in the College of Biological Sciences. He joined the Shannon Lab this summer as a Field and Lab Assistant. He has really enjoyed watering and caring for the plants and helping out in the field. Although he is unsure where his future will take him, his experiences in the Shannon lab have changed his perspective towards plant breeding and opened his eyes to the many rewarding applications of genetics.</p>
- <br/>
- <br/>
- <br/>
-
 
 ### Elijah Lartey
 <p align="justify">

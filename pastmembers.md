@@ -65,3 +65,34 @@ Sophia Fitzcollins was with the lab as an undergraduate research assistant from 
  <br/>
  <br/>
 
+### John Larsen
+<p align="justify">
+
+<figure>
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/john.jpg" width="300" alt="" align="left">
+</div>
+</figure>
+
+
+John Larsen majored in history with an emphasis on Food and Famine History and received his Bachelor's Degree in December 2020. John's main duties in Shannon Lab included making media, transplanting plants, and doing daily plant maintenance that includes watering and vine killing, as well as tuber harvesting. John ended his time in the Shannon lab by moving onto his own research project and hopes to go to graduate school in the future! </p>
+ <br/>
+ <br/>
+ <br/>
+
+
+
+### Thomas McGehee
+<p align="justify">
+
+<figure>
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/tom.jpeg" width="300" alt="" align="left">
+</div>
+</figure>
+
+Thomas McGehee was an undergraduate student studying Art and Genetics in the College of Biological Sciences. He joined the Shannon Lab in 2019 as a Field and Lab Assistant. He really enjoyed watering and caring for the plants and helping out in the field. Although he is unsure where his future will take him, his experiences in the Shannon lab have changed his perspective towards plant breeding and opened his eyes to the many rewarding applications of genetics.</p>
+ <br/>
+ <br/>
+ <br/>
+
