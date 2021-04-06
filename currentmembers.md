@@ -36,7 +36,7 @@ Dr. Stefaniak is a Researcher 5, Breeding Specialist in the Department of Hortic
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/husain.png" width="300" alt="" align="left">
+	<img src="/img/husain.png" width="300" alt="Picture of Husain in the field" align="left">
 </div>
 </figure>
 
