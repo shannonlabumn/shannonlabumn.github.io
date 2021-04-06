@@ -10,8 +10,9 @@ bigimg: "/img/group_PIs.jpg"
 </div>
 </figure>
 
-[The Potato 2.0 Project](https://potatov2.github.io/) - Creating a New Paradigm for Potato breeding
-* Working with collaborators at UW, MSU, USDA-ARS, Cornell, OSU and U Maine, we're reinventing potatoes as a diploid inbred hybrid crop. Our lab is generating germplasm and developing inbred lines.  We're particularly interested in generating sequence data and using these new dihaploids to improve our understanding of haplotype diversity, distribution of deleterious alleles, and domestication history in potato.
+</br>[The Potato 2.0 Project](https://potatov2.github.io/) - Creating a New Paradigm for Potato breeding
+
+Working with collaborators at UW, MSU, USDA-ARS, Cornell, OSU and U Maine, we're reinventing potatoes as a diploid inbred hybrid crop. Our lab is generating germplasm and developing inbred lines.  We're particularly interested in generating sequence data and using these new dihaploids to improve our understanding of haplotype diversity, distribution of deleterious alleles, and domestication history in potato.
 
 <figure>
 <div style="float: center; padding-top: 25px; padding-bottom: 25px">
@@ -20,4 +21,5 @@ bigimg: "/img/group_PIs.jpg"
 </figure>
 
 [Tools for Polyploids](https://www.polyploids.org/) - Tools for Genomic Analysis Built and Adapted for Polyploid Genomes
-* We are part of an international collaboration including 8 US institutions, 3 international institutions, CIGAR, and multiple industry partnerships, to develop computational tools for genetic analysis which will support the breeding of polyploid crops.  The potato team is particularly focused on implementing genomic selection on a large scale in multiple programs. Our lab will develop models for GS in MN for red, russet, and chipping potatoes.
+</br>
+We are part of an international collaboration including 8 US institutions, 3 international institutions, CIGAR, and multiple industry partnerships, to develop computational tools for genetic analysis which will support the breeding of polyploid crops.  The potato team is particularly focused on implementing genomic selection on a large scale in multiple programs. Our lab will develop models for GS in MN for red, russet, and chipping potatoes.
