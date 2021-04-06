@@ -10,8 +10,8 @@ bigimg: "/img/group_PIs.jpg"
 </div>
 </figure>
 
-<br/>[The Potato 2.0 Project](https://potatov2.github.io/) - Creating a New Paradigm for Potato breeding
-
+[The Potato 2.0 Project](https://potatov2.github.io/) - Creating a New Paradigm for Potato breeding
+<br/>
 Working with collaborators at UW, MSU, USDA-ARS, Cornell, OSU and U Maine, we're reinventing potatoes as a diploid inbred hybrid crop. Our lab is generating germplasm and developing inbred lines.  We're particularly interested in generating sequence data and using these new dihaploids to improve our understanding of haplotype diversity, distribution of deleterious alleles, and domestication history in potato.
 
 <figure>
