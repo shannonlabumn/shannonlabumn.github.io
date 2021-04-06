@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collaborative Research
-bigimg: "/img/group_PIs.jpg"
+bigimg: "/img/group_PIs.png"
 ---
 
 <figure>
