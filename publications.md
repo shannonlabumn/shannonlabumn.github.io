@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-bigimg: "/img/harvest_MAES2.png"
+bigimg: "/img/folks_in_field.jpg"
 ---
 ### 2021
 * Stefaniak, T.R.; Fitzcollins, S.; Figueroa, R.; Thompson, A.L.; Schmitz Carley, C.; Shannon, L.M. Genotype and Variable Nitrogen Effects on Tuber Yield and Quality for Red Fresh Market Potatoes in Minnesota. Agronomy 2021, 11, 255. [https://doi.org/10.3390/agronomy11020255](https://doi.org/10.3390/agronomy11020255)
