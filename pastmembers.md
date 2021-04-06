@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Past Members
+bigimg: "img/colins_defense.jpg"
 ---
 
 ### Dr. Cari Schmitz Carley
