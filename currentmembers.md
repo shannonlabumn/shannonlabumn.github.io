@@ -227,3 +227,22 @@ Elijah is majoring in Plant Science after originally attending the U of M for mu
 </figure>
 
 Adynn is a first year plant science major with an interest in selective breeding and nutrient cycling. She's excited to work in this lab to learn more about the growing process and the life cycles of plants and how they can be altered!</p>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+
+### Julia Lau
+<p align="justify">
+
+<figure>
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/julia.jpg" width="300" alt="" align="left">
+</div>
+</figure>
+
+Julia is a junior majoring in Bioproducts and Biosystems Engineering with a focus in Ecological and Environmental Engineering. She is currently working as a Greenhouse and Lab Assistant with the Shannon Lab and loves plants and is interested in how plants alter the soil and affect the environment. In her free time, she loves hiking, marching band, and spending quality time with her friends.
