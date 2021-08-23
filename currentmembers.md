@@ -180,7 +180,7 @@ Michael is a Master's student in the Applied Plant Sciences program. He earned a
 <p align="justify">
 
 <figure>
-<div style="float: left; padding-left: 25px; padding-bottom: 25px">
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<img src="/img/adynn.jpg" width="300" alt="Picture of Adynn wearing a orange shirt and tan sweater" align="left">
 </div>
 </figure>
