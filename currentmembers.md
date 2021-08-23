@@ -13,8 +13,8 @@ bigimg: "/img/group_photo.jpg"
 </div>
 </figure>
 
-Dr. Shannon is an assistant professor of potato breeding, genetics, and genomics in the Department of Horticultural Science at the University of Minnesota.  She is a population and quantitative geneticist by training and she applies that experience to elucidate potato diversity and the complex nature of autotetraploid genomics as well as developing new potato varieties for Minnesota growers.  She earned an undergraduate degree in biology and anthropology at Grinnell College and a PhD in genetics from the University of Wisconsin. Her post doctoral research was done in the department of Biomedical Sciences at Cornell and the Department of Horticulture at the University of Wisconsin. She enjoys overly complicated board games, bird watching, and exploring the theater, fashion, and breweries of her new home in the Twin Cities. 
-For a list of Dr. Shannon's publications, <a href="http://scholar.google.com/citations?hl=en&user=q4JUUF0AAAAJ"> click here. 
+Dr. Shannon is an assistant professor of potato breeding, genetics, and genomics in the Department of Horticultural Science at the University of Minnesota.  She is a population and quantitative geneticist by training and she applies that experience to elucidate potato diversity and the complex nature of autotetraploid genomics as well as developing new potato varieties for Minnesota growers.  She earned an undergraduate degree in biology and anthropology at Grinnell College and a PhD in genetics from the University of Wisconsin. Her post doctoral research was done in the department of Biomedical Sciences at Cornell and the Department of Horticulture at the University of Wisconsin. She enjoys overly complicated board games, bird watching, and exploring the theater, fashion, and breweries of her new home in the Twin Cities.
+For a list of Dr. Shannon's publications, <a href="http://scholar.google.com/citations?hl=en&user=q4JUUF0AAAAJ"> click here.
 </a>
 <br/>
 </p>
@@ -45,20 +45,19 @@ Husain is a PhD student in the Plant & Microbial Biology program studying plant 
  <br/>
  <br/>
  <br/>
-  
-  
-### Rachel Figueroa
+
+
+### John Larsen
 <p align="justify">
 
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/rachel.jpg" width="300" alt="" align="left">
+	<img src="/img/john.jpg" width="300" alt="" align="left">
 </div>
 </figure>
 
 
-Rachel is a part of our team as researcher 1.  She will be researching disease resistance in potatoes through DNA-based markers and managing our growth chambers and greenhouse.  She enjoys exploring the lakes and parks around the Twin Cities, reading, and making jewelry in her spare time.</p>
- <br/>
+John Larsen is a researcher in Shannon Lab, and graduate of the University of Minnesota who majored in History, with a focus on the weaponization of food. John’s duties in the lab consist of greenhouse planning and management,  data analysis, and is the lab’s in-house cider maker. In his free time, John likes to read, play and listen to music, and talk your ear off when it comes to craft cider. </p>
  <br/>
  <br/>
  <br/>
@@ -148,7 +147,7 @@ Yusuf is a PhD student in the Applied Plant Sciences program studying breeding a
 </div>
 </figure>
 
-Xiaoxi is a post-doc in Shannon Lab. She earned her B.S. in plant pathology and entomology at Nanjing Agriculture University in Chine and Ph.D. in biochemistry and molecular biology from Mississippi State University where she studied protein post-translational modifications, gene function, and QTL mapping in rice. She joined the lab after completing a post-doc at the University of Nebraska-Lincoln, where she involved research aspects on machine learning classification and comparative genomics of grasses species including maize, sorghum, and seteria. In the Shannon Lab, Xiaoxi is studying dihaploid potatoes; and GWAS on morphological traits. 
+Xiaoxi is a post-doc in Shannon Lab. She earned her B.S. in plant pathology and entomology at Nanjing Agriculture University in Chine and Ph.D. in biochemistry and molecular biology from Mississippi State University where she studied protein post-translational modifications, gene function, and QTL mapping in rice. She joined the lab after completing a post-doc at the University of Nebraska-Lincoln, where she involved research aspects on machine learning classification and comparative genomics of grasses species including maize, sorghum, and seteria. In the Shannon Lab, Xiaoxi is studying dihaploid potatoes; and GWAS on morphological traits.
 For a list of Xiaoxi's publications, <a href = "https://scholar.google.com/citations?hl=en&user=lDDTcioAAAAJ"> click here.
 </a>
 </p>
@@ -177,51 +176,11 @@ Michael is a Master's student in the Applied Plant Sciences program. He earned a
 
 ## Undergraduates
 
-### Laura Schulz
-<p align="justify">
-
-<figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/schulz.png" width="300" alt="" align="left">
-</div>
-</figure>
-
-Laura Schulz is majoring in Plant Science and Bioproducts & Biosystems Engineering. In the Shannon Lab, she is currently working on a UROP related to creating a population of diploid potatoes, and also assists with transplanting, watering, and collecting pollen. In her spare time, Laura enjoys gardening and spending time with her cats.</p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
-
-
-### Elijah Lartey
-<p align="justify">
-
-<figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/ElijahG.jpg" width="300" alt="" align="left">
-</div>
-</figure>
-
-Elijah is majoring in Plant Science after originally attending the U of M for music in 2015. They became interested in ecology after working for the Youth Conservation Corps of Minnesota in 2014. After that they picked up gardening as a hobby and eventually decided to study the subject in 2018. In their free time they still like to make music as well as bake and be a tea snob.</p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
-
 ### Adynn Stedillie
 <p align="justify">
 
 <figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+<div style="float: left; padding-left: 25px; padding-bottom: 25px">
 	<img src="/img/adynn.jpg" width="300" alt="" align="left">
 </div>
 </figure>
@@ -240,7 +199,7 @@ Adynn is a first year plant science major with an interest in selective breeding
 <p align="justify">
 
 <figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+<div style="float: right; padding-right: 25px; padding-bottom: 25px">
 	<img src="/img/julia.jpg" width="300" alt="" align="left">
 </div>
 </figure>

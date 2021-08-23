@@ -66,23 +66,6 @@ Sophia Fitzcollins was with the lab as an undergraduate research assistant from 
  <br/>
  <br/>
 
-### John Larsen
-<p align="justify">
-
-<figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/john.jpg" width="300" alt="" align="left">
-</div>
-</figure>
-
-
-John Larsen majored in history with an emphasis on Food and Famine History and received his Bachelor's Degree in December 2020. John's main duties in Shannon Lab included making media, transplanting plants, and doing daily plant maintenance that includes watering and vine killing, as well as tuber harvesting. John ended his time in the Shannon lab by moving onto his own research project and hopes to go to graduate school in the future! </p>
- <br/>
- <br/>
- <br/>
-
-
-
 ### Thomas McGehee
 <p align="justify">
 
@@ -97,3 +80,43 @@ Thomas McGehee was an undergraduate student studying Art and Genetics in the Col
  <br/>
  <br/>
 
+
+ ### Laura Schulz
+ <p align="justify">
+
+ <figure>
+ <div style="float: right; padding-left: 25px; padding-bottom: 25px">
+ 	<img src="/img/schulz.png" width="300" alt="" align="left">
+ </div>
+ </figure>
+
+ Laura Schulz is majoring in Plant Science and Bioproducts & Biosystems Engineering. In the Shannon Lab, she worked on a UROP related to creating a population of diploid potatoes, and also assisted with transplanting, watering, and collecting pollen. In her spare time, Laura enjoys gardening and spending time with her cats.</p>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
+
+ ### Elijah Lartey
+ <p align="justify">
+
+ <figure>
+ <div style="float: left; padding-right: 25px; padding-bottom: 25px">
+ 	<img src="/img/ElijahG.jpg" width="300" alt="" align="left">
+ </div>
+ </figure>
+
+ Elijah is majoring in Plant Science after originally attending the U of M for music in 2015. They became interested in ecology after working for the Youth Conservation Corps of Minnesota in 2014. After that they picked up gardening as a hobby and eventually decided to study the subject in 2018. In their free time they still like to make music as well as bake and be a tea snob.</p>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
