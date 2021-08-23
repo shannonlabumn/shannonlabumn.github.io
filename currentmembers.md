@@ -181,9 +181,10 @@ Michael is a Master's student in the Applied Plant Sciences program. He earned a
 
 <figure>
 <div style="float: left; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/adynn.jpg" width="300" alt="" align="left">
+	<img src="/img/adynn.jpg" width="300" alt="Picture of Adynn wearing a orange shirt and tan sweater" align="left">
 </div>
 </figure>
+
 
 Adynn is a first year plant science major with an interest in selective breeding and nutrient cycling. She's excited to work in this lab to learn more about the growing process and the life cycles of plants and how they can be altered!</p>
  <br/>
