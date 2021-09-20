@@ -9,7 +9,7 @@ bigimg: "/img/display_garden.jpg"
 Join our lab in the Twin Cities! We often have open positions for [graduate students](#opportunities-for-graduate-students), [postdocs](#postdoctoral-opportunities), [undergrads](#undergraduate-research), and [researchers](#researchers). Feel free to reach out even if we do not have open opportunities!
 
 ### Specific Opportunities
-<br/>
+
 #### Graduate Research
 
 [Dr. Ashish Ranjan](https://experts.umn.edu/en/persons/ashish-ranjan) (Plant Path) and Dr. Laura Shannon (Hort Sci) are hiring a PhD student to map scab resistance in diploid and tetraploid potatoes starting Fall 2022. Scab is a major potato disease which effects marketability resulting in losses for growers. One of the best ways to prevent scab is to plant resistant varieties. We are looking for a student to screen the UMN potato breeding program for common scab resistance and map resistance loci in tetraploid germplasm. Diploid potatoes provide a more tractable organism for genetic research and will be used for fine mapping and functional analysis. Additionally, this student will be responsible for analyzing RenSeq data on powdery scab resistance in a breeding program. These projects will be collaborations with Pepsi Co and NDSU. The student will conduct field, lab, and computational research and gain experience with plant pathology, breeding, and genetic analysis in both diploids and tetraploids. 
