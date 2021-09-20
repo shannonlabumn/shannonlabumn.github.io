@@ -4,6 +4,8 @@ title: Publications
 bigimg: "/img/folks_in_field.png"
 ---
 ### 2021
+* Busse, J.S., Jansky, S.H., Agha, H.I. et al. A High Throughput Method for Generating Dihaploids from Tetraploid Potato. Am. J. Potato Res. (2021). [https://doi.org/10.1007/s12230-021-09844-1](https://doi.org/10.1007/s12230-021-09844-1)
+
 * Stefaniak, T.R.; Fitzcollins, S.; Figueroa, R.; Thompson, A.L.; Schmitz Carley, C.; Shannon, L.M. Genotype and Variable Nitrogen Effects on Tuber Yield and Quality for Red Fresh Market Potatoes in Minnesota. Agronomy 2021, 11, 255. [https://doi.org/10.3390/agronomy11020255](https://doi.org/10.3390/agronomy11020255)
 
 ### 2020
