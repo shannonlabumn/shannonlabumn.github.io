@@ -6,7 +6,7 @@ bigimg: "/img/display_garden.jpg"
 
 # The Shannon Lab is hiring!
 
-Join our lab in the Twin Cities! We often have open positions for [graduate students](#opportunities-for-graduate-students), [postdocs](#postdoctoral-opportunities), [undergrads](#undergraduate-research), and [researchers](#researchers). Feel free to reach out even if we do not have open opportunities!
+Join our lab in the Twin Cities! We often have open positions for [graduate students](#graduate-research), [postdocs](#postdoctoral-opportunities), [undergrads](#undergraduate-research), and [researchers](#researchers). Feel free to reach out even if we do not have open opportunities!
 
 ### Specific Opportunities
 
