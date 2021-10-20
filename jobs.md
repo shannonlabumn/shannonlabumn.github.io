@@ -30,4 +30,4 @@ We regularly hire undergraduates as research assistants in the field and greenho
 
 #### Researchers
 
-The Shannon laboratory is seeking 2 professional researchers to join the potato breeding, genetics, and genomics team. The intent is to hire 2 positions at the Researcher 1 level, but Researcher 2 classification will be considered for highly qualified candidates. To apply, please submit applications for both postings according to your qualifications and interests by going [here](https://humanresources.umn.edu/content/find-job) and searching for job ID 343424 and 343423. Salary commensurate with qualifications and classification. This position includes a generous benefits package described [here](https://humanresources.umn.edu/sites/humanresources.umn.edu/files/2021_tcd-cslr-75100-ben-0105-7_final.pdf).
+We are not currently actively looking for researchers.
