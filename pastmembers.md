@@ -10,7 +10,7 @@ Rachel was a part of our team as a researcher 2.  She investigated disease resis
 
 ### Katelyn Filbrandt
 
-Katelyn was the teams lab manager from 2017-2021. She worked on virus eradication using tissue culture to clean up the potato germplasm of 39 varieties from the previous breeding program. She also assisted in disease control, genotyping, and field work for the breeding program. She has continued her work with tissue culture after recently moving to Michigan.
+Katelyn was the team's lab manager from 2017-2021. She worked on virus eradication using tissue culture to clean up the potato germplasm of 39 varieties from the previous breeding program. She also assisted in disease control, genotyping, and field work for the breeding program. She has continued her work with tissue culture after recently moving to Michigan.
 
 ### Dr. Cari Schmitz Carley
 
