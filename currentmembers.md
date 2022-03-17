@@ -57,7 +57,7 @@ Husain is a PhD student in the Plant & Microbial Biology program studying plant 
 </figure>
 
 
-John Larsen is a researcher in Shannon Lab, and graduate of the University of Minnesota who majored in History, with a focus on the weaponization of food. John’s duties in the lab consist of greenhouse planning and management,  data analysis, and is the lab’s in-house cider maker. In his free time, John likes to read, play and listen to music, and talk your ear off when it comes to craft cider. </p>
+John Larsen is a researcher in Shannon Lab, and graduate of the University of Minnesota who majored in History, with a focus on the weaponization of food. John’s duties in the lab consist of managing and running Shannon Lab's tissue culture bank, greenhouse planning and management, and is the lab’s in-house cider maker. In his free time, John likes to read, play and listen to music, and talk your ear off when it comes to craft cider. </p>
  <br/>
  <br/>
  <br/>
@@ -102,17 +102,17 @@ Heather is working toward her Master's degree in the Biomedical Informatics and 
  <br/>
 
 
-### Katelyn Filbrandt
+### Megan Harder
 <p align="justify">
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/katelyn.jpg" width="300" height="399" alt="" align="left">
+	<img src="" width="300" height="399" alt="" align="left">
 </div>
 </figure>
 
 
-As the Lab Manager of Shannon Lab group, Katelyn is currently working on virus eradication using tissue culture to clean up the potato germplasm of 39 varieties from the previous breeding program.  This will allow our breeder to use them in the crossing block and phenotype them in the field to be assessed for release.  She also assists in disease control, genotyping, and field work for the breeding program. Katelyn loves to be out in nature and enjoys outdoor adventure silent sports including ice climbing, mountain biking, and cross country skiing.</p>
+Megan joined the lab in 2021 as a researcher. Her primary role is in data management, curating the "potatobase" and analyzing the lab's data. She also helps keep things organized as the lab's project manager. Megan is a neophyte to plant breeding, having received her B.A. in Geology from Carleton College where she completed a senior thesis in metamorphic petrology. In her free time, Megan enjoys baking, Brazilian Jiu-Jitsu, writing, and thrifting. </p>
  <br/>
  <br/>
  <br/>
@@ -147,7 +147,7 @@ Yusuf is a PhD student in the Applied Plant Sciences program studying breeding a
 </div>
 </figure>
 
-Xiaoxi is a post-doc in Shannon Lab. She earned her B.S. in plant pathology and entomology at Nanjing Agriculture University in Chine and Ph.D. in biochemistry and molecular biology from Mississippi State University where she studied protein post-translational modifications, gene function, and QTL mapping in rice. She joined the lab after completing a post-doc at the University of Nebraska-Lincoln, where she involved research aspects on machine learning classification and comparative genomics of grasses species including maize, sorghum, and seteria. In the Shannon Lab, Xiaoxi is studying dihaploid potatoes; and GWAS on morphological traits.
+Xiaoxi is a post-doc in Shannon Lab. She earned her B.S. in plant pathology and entomology at Nanjing Agriculture University in China and Ph.D. in biochemistry and molecular biology from Mississippi State University where she studied protein post-translational modifications, gene function, and QTL mapping in rice. She joined the lab after completing a post-doc at the University of Nebraska-Lincoln, where she involved research aspects on machine learning classification and comparative genomics of grasses species including maize, sorghum, and seteria. In the Shannon Lab, Xiaoxi is studying dihaploid potatoes; and GWAS on morphological traits.
 For a list of Xiaoxi's publications, <a href = "https://scholar.google.com/citations?hl=en&user=lDDTcioAAAAJ"> click here.
 </a>
 </p>
