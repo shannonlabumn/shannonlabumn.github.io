@@ -107,7 +107,7 @@ Heather is working toward her Master's degree in the Biomedical Informatics and 
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="" width="300" height="399" alt="" align="left">
+	<img src="/img/Megan.jpeg" width="300" height="399" alt="" align="left">
 </div>
 </figure>
 
