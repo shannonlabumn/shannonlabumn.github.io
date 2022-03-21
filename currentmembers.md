@@ -207,3 +207,24 @@ Adynn is a first year plant science major with an interest in selective breeding
 </figure>
 
 Julia is a junior majoring in Bioproducts and Biosystems Engineering with a focus in Ecological and Environmental Engineering. She is currently working as a Greenhouse and Lab Assistant with the Shannon Lab and loves plants and is interested in how plants alter the soil and affect the environment. In her free time, she loves hiking, marching band, and spending quality time with her friends.
+
+### Ben Leiran
+<p align="justify">
+
+<figure>
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/Ben.jpg" width="300" alt="Picture of Adynn wearing a orange shirt and tan sweater" align="left">
+</div>
+</figure>
+
+
+Ben is a senior in his final semester at the U of M studying physics with a biological emphasis. Since joining the group in January, he's learned more about potatoes than he's guessing most physicists have, and he can see a breakthrough in battery technology coming down the line if he were to combine the two! In his free time he races triathlons and chips away at an ever-growing list of books that he'd like to read, and he looks forward to doing both more often after graduating!</p>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
