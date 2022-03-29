@@ -219,7 +219,7 @@ Julia is a junior majoring in Bioproducts and Biosystems Engineering with a focu
 
 
 
-</figure	
+</figure>	
 ### Ben Leiran
 <p align="justify">
 
