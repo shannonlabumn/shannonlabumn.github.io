@@ -240,7 +240,7 @@ Ben is a senior in his final semester at the U of M studying physics with a biol
 
 <figure>
 <div style="float: right; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/jessi.png" width="300" alt="" align="left">
+	<img src="/img/Jessi.png" width="300" alt="" align="left">
 </div>
 </figure>
 	
