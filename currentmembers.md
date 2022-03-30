@@ -116,7 +116,10 @@ Megan joined the lab in 2021 as a researcher. Her primary role is in data manage
  <br/>
  <br/>
  <br/>
-
+ <br/>
+ <br/>
+ <br/>
+ <br/>
 
 
 ### Muyideen Yusuf
@@ -218,6 +221,10 @@ Julia is a junior majoring in Bioproducts and Biosystems Engineering with a focu
  <br/>
  <br/>
  <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
 
 
 
@@ -234,8 +241,6 @@ Julia is a junior majoring in Bioproducts and Biosystems Engineering with a focu
 
 
 Ben is a senior in his final semester at the U of M studying physics with a biological emphasis. Since joining the group in January, he's learned more about potatoes than he's guessing most physicists have, and he can see a breakthrough in battery technology coming down the line if he were to combine the two! In his free time he races triathlons and chips away at an ever-growing list of books that he'd like to read, and he looks forward to doing both more often after graduating!</p>
- <br/>
- <br/>
  <br/>
  <br/>
  <br/>
