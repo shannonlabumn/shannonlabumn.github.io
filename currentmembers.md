@@ -190,7 +190,7 @@ Michael is a Master's student in the Applied Plant Sciences program. He earned a
 </figure>
 
 
-Adynn is a first year plant science major with an interest in selective breeding and nutrient cycling. She's excited to work in this lab to learn more about the growing process and the life cycles of plants and how they can be altered!</p>
+Adynn is a Plant Science major with an interest in sustainable, international agriculture. She’s been working with Shannon lab exploring the many interesting opportunities within field and lab work, and especially loves being outside in the summers harvesting tubers and pollinating flowers. Outside of the lab, she can usually be found cooking with what she grows in her sunroom, or hanging out with her bearded dragon, Fish.</p>
  <br/>
  <br/>
  <br/>
