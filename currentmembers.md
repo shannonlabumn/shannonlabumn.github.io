@@ -177,6 +177,7 @@ Michael is a Master's student in the Applied Plant Sciences program. He earned a
 ## Undergraduates
 
 ### Adynn Stedillie
+
 <p align="justify">
 
 <figure>
@@ -198,6 +199,7 @@ Adynn is a first year plant science major with an interest in selective breeding
  <br/>
 
 ### Julia Lau
+
 <p align="justify">
 
 <figure>
@@ -221,6 +223,7 @@ Julia is a junior majoring in Bioproducts and Biosystems Engineering with a focu
 
 	
 ### Ben Leiran
+
 <p align="justify">
 
 <figure>
@@ -231,11 +234,20 @@ Julia is a junior majoring in Bioproducts and Biosystems Engineering with a focu
 
 
 Ben is a senior in his final semester at the U of M studying physics with a biological emphasis. Since joining the group in January, he's learned more about potatoes than he's guessing most physicists have, and he can see a breakthrough in battery technology coming down the line if he were to combine the two! In his free time he races triathlons and chips away at an ever-growing list of books that he'd like to read, and he looks forward to doing both more often after graduating!</p>
-
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
 
 
 
 ### Jessi Huege
+
 <p align="justify">
 
 <figure>
@@ -245,7 +257,51 @@ Ben is a senior in his final semester at the U of M studying physics with a biol
 </figure>
 	
 
-Jessi is a senior, majoring in Plant Science. She enjoys working with plants and learning to better understand the physiology and development of plants. In her free time, she likes to garden and create botanical illustrations.
+Jessi is a senior, majoring in Plant Science. She enjoys working with plants and learning to better understand the physiology and development of plants. In her free time, she likes to garden and create botanical illustrations.</p>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+
+### Ian Spencer
+
+<p align="justify">
+
+<figure>
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/Ian.jpg" width="300" alt="" align="left">
+</div>
+</figure>
+
+
+Ian is majoring in Ecology, Evolution and Behavior with an interest in Marine Biology. He is interested in how plants and organisms interact with each other and how they affect the surrounding ecosystem. In his free time he enjoys playing musical instruments, building metal and wooden model kits, and playing games with friends.</p>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+
+### Adalyn Pederson
+
+<p align="justify">
+
+<figure>
+<div style="float: right; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/Adalyn.jpg" width="300" alt="" align="left">
+</div>
+</figure>
+	
+
+Adalyn is a freshman studying chemical engineering with an interest in the environment. She loves being around plants and learning more about the potato breeding and growth processes. In her free time she enjoys being outside and coaching youth soccer!</p>
  <br/>
  <br/>
  <br/>
