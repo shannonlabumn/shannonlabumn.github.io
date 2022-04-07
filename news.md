@@ -3,7 +3,16 @@ layout: page
 title: Us in the News
 bigimg: "/img/harvest_MAES2.png"
 ---
+### 2022
+* [Spudman Magazine: Breeding red varieties that require less nitrogen, By Drs. Thomas Stefaniak and Laura Shannon](http://digital.spudman.com/i/1446621-february-2022/25?) - February 2022
+
 ### 2021
+* [Northern Plains Potato Growers Association Field Day: Dr. Laura Shannon presents an update on the UMN breeding program](https://www.youtube.com/watch?v=vmkRhp1Its4) - September 2021
+* [Valley Potato Grower Magazine: Minnesota Area II Potato Council 2021 Field Day Report](http://www.valleypotatogrower.com/flipbookSeptOct2021mag/flipbook/?page=12) - September/October 2021
+* [Valley Potato Grower Magazine: Thoughts from Growers and Industry Folks on the NPPGA 75th Anniversary](http://www.valleypotatogrower.com/flipbookSeptOct2021mag/flipbook/?page=28) - September/October 2021
+* [Valley Potato Grower Magazine: 2021 NPPGA Field Day](http://www.valleypotatogrower.com/flipbookSeptOct2021mag/flipbook/?page=22) - September/October 2021
+* [Valley Potato Grower Magazine: 2021 Potato Field Research in North Dakota and Minnesota](http://www.valleypotatogrower.com/flipbookJulyAug2021mag/flipbook/?page=20) - July/August 2021
+* [Valley Potato Grower Magazine: 2021 NPPGA Virtual Research Reporting Conference](http://www.valleypotatogrower.com/flipbookMarch2021mag/flipbook/?page=22) - March 2021
 * [Dr. Shannon presents for UMN's Breeding Center - "Sequencing, Math, and Avoidance: a few approaches to autotetraploid breeding."](https://www.youtube.com/watch?v=w0QL5titNv4) - March 2021
 
 
