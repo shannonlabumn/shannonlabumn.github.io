@@ -34,10 +34,6 @@ Nansea was in the lab in the Spring of 2019 and worked on a diploid potato GWAS 
 
 Akpevwe worked with us in the summer of 2018.  She tested infertility between potato cultivars and a wild species we use for breeding, data manipulation, and some greenhouse work.  We were recently notified that she will be attending the University of Colorado to study cardiovascular aging.
 
-### Jessi Huege
-
-Jessi was around at the very beginning until Summer of 2018.  She spent her time in the lab experimenting with methods for clonal propagation and maintenance of wild potato relatives and took the lead on botanical phenotyping of late stage potato cultivars for plant variety protection applications.  We were recently notified that she had started her own freelance gardening business.
-
 ### Poh Leng
 <p align="justify">
 
