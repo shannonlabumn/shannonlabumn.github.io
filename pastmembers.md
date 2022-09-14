@@ -52,16 +52,16 @@ Poh Leng worked with Husain on the diploid project. She focused on pollen viabil
 
 ### Sophia Fitzcollins
 	
-Sophia Fitzcollins was with the lab as an undergraduate research assistant from the Fall of 2018 to the Spring of 2020. She graduated with a B.S. in Plant Science and a minor in Architecture.  She assisted with greenhouse maintenance as well as mixing media and transplanting.  In her spare time Sophy likes to learn new languages and read books.</p>
+Sophia Fitzcollins was with the lab as an undergraduate research assistant from the Fall of 2018 to the Spring of 2020. She graduated with a B.S. in Plant Science and a minor in Architecture.  She assisted with greenhouse maintenance as well as mixing media and transplanting.  In her spare time Sophy likes to learn new languages and read books.
 
 ### Thomas McGehee
 
-Thomas McGehee was an undergraduate student studying Art and Genetics in the College of Biological Sciences. He joined the Shannon Lab in 2019 as a Field and Lab Assistant. He really enjoyed watering and caring for the plants and helping out in the field. Although he is unsure where his future will take him, his experiences in the Shannon lab have changed his perspective towards plant breeding and opened his eyes to the many rewarding applications of genetics.</p>
+Thomas McGehee was an undergraduate student studying Art and Genetics in the College of Biological Sciences. He joined the Shannon Lab in 2019 as a Field and Lab Assistant. He really enjoyed watering and caring for the plants and helping out in the field. Although he is unsure where his future will take him, his experiences in the Shannon lab have changed his perspective towards plant breeding and opened his eyes to the many rewarding applications of genetics.
 
- ### Laura Schulz
+### Laura Schulz
  
- Laura Schulz is majoring in Plant Science and Bioproducts & Biosystems Engineering. In the Shannon Lab, she worked on a UROP related to creating a population of diploid potatoes, and also assisted with transplanting, watering, and collecting pollen. In her spare time, Laura enjoys gardening and spending time with her cats.</p>
+Laura Schulz is majoring in Plant Science and Bioproducts & Biosystems Engineering. In the Shannon Lab, she worked on a UROP related to creating a population of diploid potatoes, and also assisted with transplanting, watering, and collecting pollen. In her spare time, Laura enjoys gardening and spending time with her cats.
 
- ### Elijah Lartey
+### Elijah Lartey
 
- Elijah is majoring in Plant Science after originally attending the U of M for music in 2015. They became interested in ecology after working for the Youth Conservation Corps of Minnesota in 2014. After that they picked up gardening as a hobby and eventually decided to study the subject in 2018. In their free time they still like to make music as well as bake and be a tea snob.</p>
+Elijah is majoring in Plant Science after originally attending the U of M for music in 2015. They became interested in ecology after working for the Youth Conservation Corps of Minnesota in 2014. After that they picked up gardening as a hobby and eventually decided to study the subject in 2018. In their free time they still like to make music as well as bake and be a tea snob.
