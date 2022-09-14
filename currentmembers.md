@@ -157,17 +157,21 @@ For a list of Xiaoxi's publications, <a href = "https://scholar.google.com/citat
 <br/>
 <br/>
 
-### Michael Miller
+
+### Jessi Huege
+
 <p align="justify">
 
 <figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/Michael.jpg" width="300" alt="" align="left">
+<div style="float: right; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/Jessi.png" width="300" alt="" align="left">
 </div>
 </figure>
+	
 
-
-Michael is a Master's student in the Applied Plant Sciences program. He earned a B.S. in Plant Science from the University of Minnesota. He is currently working on the development of a program to quantify tuber traits such as size, color, bruising, and disease using image analysis to improve trait heritability. Michael enjoys fishing, Alpine skiing, and traveling.  </p>
+Formerly an undergrad with the lab, Jessi is now a Researcher 1. She enjoys working with plants and learning to better understand the physiology and development of plants. In her free time, she likes to garden and create botanical illustrations.</p>
+ <br/>
+ <br/>
  <br/>
  <br/>
  <br/>
@@ -178,28 +182,6 @@ Michael is a Master's student in the Applied Plant Sciences program. He earned a
 
 
 ## Undergraduates
-
-### Adynn Stedillie
-
-<p align="justify">
-
-<figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/adynn.jpg" width="300" alt="Picture of Adynn wearing a orange shirt and tan sweater" align="left">
-</div>
-</figure>
-
-
-Adynn is a Plant Science major with an interest in sustainable, international agriculture. She’s been working with Shannon lab exploring the many interesting opportunities within field and lab work, and especially loves being outside in the summers harvesting tubers and pollinating flowers. Outside of the lab, she can usually be found cooking with what she grows in her sunroom, or hanging out with her bearded dragon, Fish.</p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
 
 ### Julia Lau
 
@@ -228,51 +210,6 @@ Julia is a junior majoring in Bioproducts and Biosystems Engineering with a focu
 
 
 
-	
-### Ben Leiran
-
-<p align="justify">
-
-<figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/Ben.jpg" width="300" alt="Picture of Ben wearing a marathon shirt" align="left">
-</div>
-</figure>
-
-
-Ben is a senior in his final semester at the U of M studying physics with a biological emphasis. Since joining the group in January, he's learned more about potatoes than he's guessing most physicists have, and he can see a breakthrough in battery technology coming down the line if he were to combine the two! In his free time he races triathlons and chips away at an ever-growing list of books that he'd like to read, and he looks forward to doing both more often after graduating!</p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
-
-
-
-### Jessi Huege
-
-<p align="justify">
-
-<figure>
-<div style="float: right; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/Jessi.png" width="300" alt="" align="left">
-</div>
-</figure>
-	
-
-Jessi is a senior, majoring in Plant Science. She enjoys working with plants and learning to better understand the physiology and development of plants. In her free time, she likes to garden and create botanical illustrations.</p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
-
 ### Ian Spencer
 
 <p align="justify">
@@ -294,6 +231,7 @@ Ian is majoring in Ecology, Evolution and Behavior with an interest in Marine Bi
  <br/>
  <br/>
  <br/>
+
 
 ### Adalyn Pederson
 
