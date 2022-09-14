@@ -6,7 +6,7 @@ bigimg: "img/colins_defense.jpg"
 
 ### Michael Miller
 
-Michael graduated from the Applied Plant Sciences program with his M.S. in the summer of 2022. He developed an R package called TubAR (Tuber Analysis in R) for quantitative phenotyping using machine learning and image analysis. He is now working for Seneca Foods.
+Michael graduated from the Applied Plant Sciences program with his M.S. in the summer of 2022. He developed an R package called TubAR (Tuber Analysis in R) for quantitative phenotyping using machine learning and image analysis. He is now working for Seneca Foods as a research technician with their breeding program.
 
 ### Rachel Figueroa
 
