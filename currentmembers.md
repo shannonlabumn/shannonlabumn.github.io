@@ -244,7 +244,53 @@ Ian is majoring in Ecology, Evolution and Behavior with an interest in Marine Bi
 </figure>
 	
 
-Adalyn is a freshman studying chemical engineering with an interest in the environment. She loves being around plants and learning more about the potato breeding and growth processes. In her free time she enjoys being outside and coaching youth soccer!</p>
+Adalyn is a sophomore studying chemical engineering with an interest in the environment. She loves being around plants and learning more about the potato breeding and growth processes. In her free time she enjoys being outside and coaching youth soccer!</p>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+
+
+### Miranda Gregory
+
+<p align="justify">
+
+<figure>
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/" width="300" alt="" align="left">
+</div>
+</figure>
+
+
+Miranda is a freshman intending to major in Biology, Society, and Environment (BSE) with interest in the health care field. In her free time, she enjoys kayaking, backpacking, and hiking. She also loves to make sustainable meals and develop new baking recipes!</p>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+
+
+### Ena Vigil
+
+<p align="justify">
+
+<figure>
+<div style="float: right; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/" width="300" alt="" align="left">
+</div>
+</figure>
+	
+
+Ena is a junior majoring in Environmental Science, Policy, and Management with interest in wildlife and nature as a whole. She is interested in studying ecosystems and the wildlife interactions within different spheres as well as finding solutions to complex questions pertaining to climate change. Her hobbies include: spending time with her pets, reading, singing and doing theatre, watching movies, and trying new restaurants!</p>
  <br/>
  <br/>
  <br/>
