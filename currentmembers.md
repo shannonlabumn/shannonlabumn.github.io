@@ -262,7 +262,7 @@ Adalyn is a sophomore studying chemical engineering with an interest in the envi
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/" width="300" alt="" align="left">
+	<img src="/img/Miranda.jpeg" width="300" alt="" align="left">
 </div>
 </figure>
 
@@ -285,7 +285,7 @@ Miranda is a freshman intending to major in Biology, Society, and Environment (B
 
 <figure>
 <div style="float: right; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/" width="300" alt="" align="left">
+	<img src="/img/Ena.jpeg" width="300" alt="" align="left">
 </div>
 </figure>
 	
