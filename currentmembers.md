@@ -254,6 +254,10 @@ Adalyn is a sophomore studying chemical engineering with an interest in the envi
  <br/>
  <br/>
  <br/>
+  <br/>
+ <br/>
+ <br/>
+ <br/>
 
 
 ### Miranda Gregory
@@ -273,10 +277,7 @@ Miranda is a freshman intending to major in Biology, Society, and Environment (B
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
- <br/>
- <br/>
+
 
 
 ### Ena Vigil
