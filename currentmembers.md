@@ -252,12 +252,7 @@ Adalyn is a sophomore studying chemical engineering with an interest in the envi
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
-  <br/>
- <br/>
- <br/>
- <br/>
+
 
 
 ### Miranda Gregory
