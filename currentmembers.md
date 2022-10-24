@@ -239,7 +239,7 @@ Ian is majoring in Ecology, Evolution and Behavior with an interest in Marine Bi
 
 <figure>
 <div style="float: right; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/Adalyn.jpg" width="300" alt="" align="left">
+	<img src="/img/Adalyn.jpg" width="300" alt="Miranda in front of a waterfall" align="left">
 </div>
 </figure>
 	
