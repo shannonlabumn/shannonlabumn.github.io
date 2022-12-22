@@ -28,7 +28,7 @@ For a list of Dr. Shannon's publications, <a href="http://scholar.google.com/cit
 </div>
 </figure>
 
-Dr. Stefaniak is a Researcher 5, Breeding Specialist in the Department of Horticulture. He is a plant breeder by training focusing on the development of new high yielding cultivars with improved disease tolerance and better quality. Thomas earned his B.A. from Michigan State University majoring in humanities, and his graduate degrees from the University of Kentucky majoring in Crop Science, minoring in plant physiology. He completed his education as a post-doctoral researcher at Texas A & M. Crops that Thomas has worked with throughout his career include soybean, melon, dry bean, tobacco, bermudagrass, sorghum, pea, lentil, chickpea, and now potato. Thomas enjoys tennis, exercise, reading, and streaming movies and television.<br/>
+Dr. Stefaniak is a Researcher 6, Breeding Specialist in the Department of Horticulture. He is a plant breeder by training focusing on the development of new high yielding cultivars with improved disease tolerance and better quality. Thomas earned his B.A. from Michigan State University majoring in humanities, and his graduate degrees from the University of Kentucky majoring in Crop Science, minoring in plant physiology. He completed his education as a post-doctoral researcher at Texas A & M. Crops that Thomas has worked with throughout his career include soybean, melon, dry bean, tobacco, bermudagrass, sorghum, pea, lentil, chickpea, and now potato. Thomas enjoys tennis, exercise, reading, and streaming movies and television.<br/>
 </p>
 
 ### Husain Agha
