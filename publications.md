@@ -14,7 +14,7 @@ bigimg: "/img/folks_in_field.png"
 
 * Meng, X., Tuttle, H., Shannon, L.M. (2022). Potato Population Genomics. In: Population Genomics. Springer, Cham. https://doi.org/10.1007/13836_2022_103
 
-* Hoopes, G., Meng, X., ... Tuttle, H.K., ... Shannon, L.M., et al. Phased, chromosome-scale genome assemblies of tetraploid potato reveal a complex genome, transcriptome, and predicted proteome landscape underpinning genetic diversity. Molecular Plant. (2022). [https://doi.org/10.1016/j.molp.2022.01.003](https://doi.org/10.1016/j.molp.2022.01.003)
+* Hoopes, G., Meng, X., ... Tuttle, H.K., ... Shannon, L.M., ... Buell, C.R., and Finkers, R. Phased, chromosome-scale genome assemblies of tetraploid potato reveal a complex genome, transcriptome, and predicted proteome landscape underpinning genetic diversity. Molecular Plant. (2022). [https://doi.org/10.1016/j.molp.2022.01.003](https://doi.org/10.1016/j.molp.2022.01.003)
 
 ### 2021
 * Busse, J.S., Jansky, S.H., Agha, H.I. et al. A High Throughput Method for Generating Dihaploids from Tetraploid Potato. Am. J. Potato Res. (2021). [https://doi.org/10.1007/s12230-021-09844-1](https://doi.org/10.1007/s12230-021-09844-1)
