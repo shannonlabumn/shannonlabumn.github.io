@@ -26,6 +26,10 @@ Colin was a graduate student working on a M.S. in Applied Plant Sciences with a 
 
 ## Previous Undergraduates
 
+### Adalyn Pederson
+
+Adalyn is a sophomore studying chemical engineering with an interest in the environment. After working hard in the potato field, she has moved on to pursue opportunities in her major field of study. 
+
 ### Adynn Stedillie
 
 Adynn is a Plant Science major with an interest in sustainable, international agriculture. Currently, they are an intern with the Grossman lab, working on cover crop - soil interactions. 
