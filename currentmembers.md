@@ -169,7 +169,7 @@ For a list of Xiaoxi's publications, <a href = "https://scholar.google.com/citat
 </figure>
 	
 
-Formerly an undergrad with the lab, Jessi is now a Researcher 1. She enjoys working with plants and learning to better understand the physiology and development of plants. In her free time, she likes to garden and create botanical illustrations.</p>
+Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys working with plants and learning to better understand the physiology and development of plants. In her free time, she likes to garden and create botanical illustrations.</p>
  <br/>
  <br/>
  <br/>
@@ -193,7 +193,7 @@ Formerly an undergrad with the lab, Jessi is now a Researcher 1. She enjoys work
 </div>
 </figure>
 
-Julia is a junior majoring in Bioproducts and Biosystems Engineering with a focus in Ecological and Environmental Engineering. She is currently working as a Greenhouse and Lab Assistant with the Shannon Lab and loves plants and is interested in how plants alter the soil and affect the environment. In her free time, she loves hiking, marching band, and spending quality time with her friends.</p>
+Julia is a senior majoring in Bioproducts and Biosystems Engineering with a focus in Ecological and Environmental Engineering. She is currently working as a Greenhouse and Lab Assistant with the Shannon Lab and loves plants and is interested in how plants alter the soil and affect the environment. In her free time, she loves hiking, marching band, and spending quality time with her friends.</p>
  <br/>
  <br/>
  <br/>
@@ -233,18 +233,18 @@ Ian is majoring in Ecology, Evolution and Behavior with an interest in Marine Bi
  <br/>
 
 
-### Adalyn Pederson
+### Dat Vo
 
 <p align="justify">
 
 <figure>
 <div style="float: right; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/Adalyn.jpg" width="300" alt="Miranda in front of a waterfall" align="left">
+	<img src="/img/Dat.jpeg" width="300" alt="" align="left">
 </div>
 </figure>
 	
 
-Adalyn is a sophomore studying chemical engineering with an interest in the environment. She loves being around plants and learning more about the potato breeding and growth processes. In her free time she enjoys being outside and coaching youth soccer!</p>
+Dat is a Senior Majoring in Biology with an interest in horticulture. He is interested in the processes of plant growth and development. In his free time, he enjoys cooking Vietnamese cuisine, going to the gym, and building computers. </p>
  <br/>
  <br/>
  <br/>
