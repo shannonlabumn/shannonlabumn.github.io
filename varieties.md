@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Variety Releases
-bigimg: "/img/"
+bigimg: "/img/colorful_potatoes.jpg"
 ---
 
 ### Polaris Gold
