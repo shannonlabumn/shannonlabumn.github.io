@@ -5,14 +5,14 @@ bigimg: "/img/folks_in_field.png"
 ---
 
 ### 2023
-* Agha, H.I., Schroeder, L., Eikholt, D., Schmitz Carley, C.A., Cavendar-Bares, J., and Shannon, L.M. Assessing the Effectiveness of Reflectance Spectroscopy Analysis to Determine Ploidy in Potato. Am. J. Potato res. (2023). https://doi.org/10.1007/s12230-022-09899-8
+* Agha, H.I., Schroeder, L., Eikholt, D., Schmitz Carley, C.A., Cavendar-Bares, J., and Shannon, L.M. Assessing the Effectiveness of Reflectance Spectroscopy Analysis to Determine Ploidy in Potato. Am. J. Potato res. (2023). [https://doi.org/10.1007/s12230-022-09899-8](https://doi.org/10.1007/s12230-022-09899-8)
 
 ### 2022
-* Stefaniak, T.R., Miller, J., Jones, C.R., Miller, M., Yusuf, M., Harder, M.A., Larsen, J.C., Schmitz Carley, C.A., Haagenson, D., Thompson, A., Michaels, T.E., Thill, C., and Shannon, L.M. Polaris Gold: An Attractive, Yellow-fleshed Tablestock Cultivar with Chipping Potential. Am. J. Potato Res. (2022). https://doi.org/10.1007/s12230-022-09896-x
+* Stefaniak, T.R., Miller, J., Jones, C.R., Miller, M., Yusuf, M., Harder, M.A., Larsen, J.C., Schmitz Carley, C.A., Haagenson, D., Thompson, A., Michaels, T.E., Thill, C., and Shannon, L.M. Polaris Gold: An Attractive, Yellow-fleshed Tablestock Cultivar with Chipping Potential. Am. J. Potato Res. (2022). [https://doi.org/10.1007/s12230-022-09896-x](https://doi.org/10.1007/s12230-022-09896-x)
 
-* Miller, M.D., Schmitz Carley, C.A., Figueroa, R.A., Feldman, M.J., Haagenson, D., and Shannon, L.M. TubAR: an R Package for Quantifying Tuber Shape and Skin Traits from Images. Am. J. Potato Res. (2022). https://doi.org/10.1007/s12230-022-09894-z
+* Miller, M.D., Schmitz Carley, C.A., Figueroa, R.A., Feldman, M.J., Haagenson, D., and Shannon, L.M. TubAR: an R Package for Quantifying Tuber Shape and Skin Traits from Images. Am. J. Potato Res. (2022). [https://doi.org/10.1007/s12230-022-09894-z](https://doi.org/10.1007/s12230-022-09894-z)
 
-* Meng, X., Tuttle, H., Shannon, L.M. (2022). Potato Population Genomics. In: Population Genomics. Springer, Cham. https://doi.org/10.1007/13836_2022_103
+* Meng, X., Tuttle, H., Shannon, L.M. (2022). Potato Population Genomics. In: Population Genomics. Springer, Cham. [https://doi.org/10.1007/13836_2022_103](https://doi.org/10.1007/13836_2022_103)
 
 * Hoopes, G., Meng, X., ... Tuttle, H.K., ... Shannon, L.M., ... Buell, C.R., and Finkers, R. Phased, chromosome-scale genome assemblies of tetraploid potato reveal a complex genome, transcriptome, and predicted proteome landscape underpinning genetic diversity. Molecular Plant. (2022). [https://doi.org/10.1016/j.molp.2022.01.003](https://doi.org/10.1016/j.molp.2022.01.003)
 
