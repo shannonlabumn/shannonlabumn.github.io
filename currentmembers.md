@@ -141,44 +141,23 @@ Yusuf is a PhD student in the Applied Plant Sciences program studying breeding a
 
 
 
-### Dr. Xiaoxi Meng
+### Jessi Huege
 <p align="justify">
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/xiaoxi.JPG" width="300" height="399" alt="" align="left">
+	<img src="/img/Jessi.png" width="300" height="399" alt="" align="left">
 </div>
 </figure>
 
-Xiaoxi is a post-doc in Shannon Lab. She earned her B.S. in plant pathology and entomology at Nanjing Agriculture University in China and Ph.D. in biochemistry and molecular biology from Mississippi State University where she studied protein post-translational modifications, gene function, and QTL mapping in rice. She joined the lab after completing a post-doc at the University of Nebraska-Lincoln, where she involved research aspects on machine learning classification and comparative genomics of grasses species including maize, sorghum, and seteria. In the Shannon Lab, Xiaoxi is studying dihaploid potatoes; and GWAS on morphological traits.
-For a list of Xiaoxi's publications, <a href = "https://scholar.google.com/citations?hl=en&user=lDDTcioAAAAJ"> click here.
+Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys working with plants and learning to better understand the physiology and development of plants. In her free time, she likes to garden and create botanical illustrations.</p>
 </a>
 </p>
 <br/>
 <br/>
-
-
-### Jessi Huege
-
-<p align="justify">
-
-<figure>
-<div style="float: right; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/Jessi.png" width="300" alt="" align="left">
-</div>
-</figure>
-	
-
-Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys working with plants and learning to better understand the physiology and development of plants. In her free time, she likes to garden and create botanical illustrations.</p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
+<br/>
+<br/>
+<br/>
 
 
 ## Undergraduates
