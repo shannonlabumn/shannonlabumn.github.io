@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Lab
-bigimg: "/img/group_photo.jpg"
+bigimg: "/img/groupPhoto2023.jpeg"
 ---
 
 ### Dr. Laura Shannon
