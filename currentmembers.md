@@ -151,14 +151,14 @@ Yusuf is a PhD student in the Applied Plant Sciences program studying breeding a
 </figure>
 
 Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys working with plants and learning to better understand the physiology and development of plants. In her free time, she likes to garden and create botanical illustrations.</p>
-</a>
-</p>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
 
 ## Undergraduates
 
