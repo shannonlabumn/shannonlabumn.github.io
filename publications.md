@@ -5,7 +5,7 @@ bigimg: "/img/folks_in_field.png"
 ---
 
 ### 2023
-* Agha, H.I., Schroeder, L., Eikholt, D., Schmitz Carley, C.A., Cavendar-Bares, J., and Shannon, L.M. Assessing the Effectiveness of Reflectance Spectroscopy Analysis to Determine Ploidy in Potato. Am. J. Potato res. (2023). [https://doi.org/10.1007/s12230-022-09899-8](https://doi.org/10.1007/s12230-022-09899-8)
+* Agha, H.I., Schroeder, L., Eikholt, D., Schmitz Carley, C.A., Cavendar-Bares, J., and Shannon, L.M. Assessing the Effectiveness of Reflectance Spectroscopy Analysis to Determine Ploidy in Potato. Am. J. Potato res. (2023). [Link](https://doi.org/10.1007/s12230-022-09899-8)
 
 ### 2022
 * Stefaniak, T.R., Miller, J., Jones, C.R., Miller, M., Yusuf, M., Harder, M.A., Larsen, J.C., Schmitz Carley, C.A., Haagenson, D., Thompson, A., Michaels, T.E., Thill, C., and Shannon, L.M. Polaris Gold: An Attractive, Yellow-fleshed Tablestock Cultivar with Chipping Potential. Am. J. Potato Res. (2022). [https://doi.org/10.1007/s12230-022-09896-x](https://doi.org/10.1007/s12230-022-09896-x)
