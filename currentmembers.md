@@ -169,7 +169,7 @@ Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys workin
 <p align="justify">
 
 <figure>
-<div style="float: right; padding-right: 25px; padding-bottom: 25px">
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
 	<img src="/img/julia.jpg" width="300" alt="" align="left">
 </div>
 </figure>
@@ -219,7 +219,7 @@ Ian is majoring in Ecology, Evolution and Behavior with an interest in Marine Bi
 <p align="justify">
 
 <figure>
-<div style="float: right; padding-right: 25px; padding-bottom: 25px">
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
 	<img src="/img/Dat.jpeg" width="300" alt="" align="left">
 </div>
 </figure>
@@ -266,7 +266,7 @@ Miranda is a freshman intending to major in Biology, Society, and Environment (B
 <p align="justify">
 
 <figure>
-<div style="float: right; padding-right: 25px; padding-bottom: 25px">
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
 	<img src="/img/Ena.jpeg" width="300" alt="" align="left">
 </div>
 </figure>
