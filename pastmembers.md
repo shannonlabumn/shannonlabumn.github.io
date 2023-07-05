@@ -24,19 +24,23 @@ Dr. Cari Schmitz Carley worked on automated image analysis and breeding and eval
 
 Colin was a graduate student working on a M.S. in Applied Plant Sciences with a minor in Sustainable Agricultural Systems. His thesis work studies nitrogen use efficiency in potato. Colin will be moving on to study natural strands of hemp as a researcher in the Michaels Lab.
 
+### John Larsen
+
+John Larsen was a researcher in Shannon Lab, and graduate of the University of Minnesota who majored in History, with a focus on the weaponization of food. John’s duties in the lab consisted of managing and running Shannon Lab's tissue culture bank, greenhouse planning and management, and was the lab’s in-house cider maker. 
+
 ## Previous Undergraduates
 
 ### Adalyn Pederson
 
-Adalyn is a sophomore studying chemical engineering with an interest in the environment. After working hard in the potato field, she has moved on to pursue opportunities in her major field of study. 
+Adalyn is a sophomore studying chemical engineering with an interest in the environment. After working hard in the potato field, she has moved on to pursue opportunities in her major field of study.
 
 ### Adynn Stedillie
 
-Adynn is a Plant Science major with an interest in sustainable, international agriculture. Currently, they are an intern with the Grossman lab, working on cover crop - soil interactions. 
+Adynn is a Plant Science major with an interest in sustainable, international agriculture. Currently, they are an intern with the Grossman lab, working on cover crop - soil interactions.
 
 ### Ben Leiran
 
-Ben worked with our lab in the Spring of 2022. He graduated with a B.S. in physics with a bological emphasis. 
+Ben worked with our lab in the Spring of 2022. He graduated with a B.S. in physics with a bological emphasis.
 
 ### Nhung Pham
 
@@ -55,7 +59,7 @@ Akpevwe worked with us in the summer of 2018.  She tested infertility between po
 Poh Leng worked with Husain on the diploid project. She focused on pollen viability in the IVP101 lines and how that influences dihaploid extraction rates.
 
 ### Sophia Fitzcollins
-	
+
 Sophia Fitzcollins was with the lab as an undergraduate research assistant from the Fall of 2018 to the Spring of 2020. She graduated with a B.S. in Plant Science and a minor in Architecture.  She assisted with greenhouse maintenance as well as mixing media and transplanting.  In her spare time Sophy likes to learn new languages and read books.
 
 ### Thomas McGehee
@@ -63,7 +67,7 @@ Sophia Fitzcollins was with the lab as an undergraduate research assistant from 
 Thomas McGehee was an undergraduate student studying Art and Genetics in the College of Biological Sciences. He joined the Shannon Lab in 2019 as a Field and Lab Assistant. He really enjoyed watering and caring for the plants and helping out in the field. Although he is unsure where his future will take him, his experiences in the Shannon lab have changed his perspective towards plant breeding and opened his eyes to the many rewarding applications of genetics.
 
 ### Laura Schulz
- 
+
 Laura Schulz is majoring in Plant Science and Bioproducts & Biosystems Engineering. In the Shannon Lab, she worked on a UROP related to creating a population of diploid potatoes, and also assisted with transplanting, watering, and collecting pollen. In her spare time, Laura enjoys gardening and spending time with her cats.
 
 ### Elijah Lartey

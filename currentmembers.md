@@ -47,23 +47,6 @@ Husain is a PhD student in the Plant & Microbial Biology program studying plant 
  <br/>
 
 
-### John Larsen
-<p align="justify">
-
-<figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/john.jpg" width="300" alt="" align="left">
-</div>
-</figure>
-
-
-John Larsen is a researcher in Shannon Lab, and graduate of the University of Minnesota who majored in History, with a focus on the weaponization of food. John’s duties in the lab consist of managing and running Shannon Lab's tissue culture bank, greenhouse planning and management, and is the lab’s in-house cider maker. In his free time, John likes to read, play and listen to music, and talk your ear off when it comes to craft cider. </p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
-
 
 ### Nicole Mihelich
 <p align="justify">
@@ -223,7 +206,7 @@ Ian is majoring in Ecology, Evolution and Behavior with an interest in Marine Bi
 	<img src="/img/Dat.jpeg" width="300" alt="" align="left">
 </div>
 </figure>
-	
+
 
 Dat is a Senior Majoring in Biology with an interest in horticulture. He is interested in the processes of plant growth and development. In his free time, he enjoys cooking Vietnamese cuisine, going to the gym, and building computers. </p>
  <br/>
@@ -270,7 +253,7 @@ Miranda is a freshman intending to major in Biology, Society, and Environment (B
 	<img src="/img/Ena.jpeg" width="300" alt="" align="left">
 </div>
 </figure>
-	
+
 
 Ena is a junior majoring in Environmental Science, Policy, and Management with interest in wildlife and nature as a whole. She is interested in studying ecosystems and the wildlife interactions within different spheres as well as finding solutions to complex questions pertaining to climate change. Her hobbies include: spending time with her pets, reading, singing and doing theatre, watching movies, and trying new restaurants!</p>
  <br/>
