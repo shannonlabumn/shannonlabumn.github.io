@@ -12,7 +12,7 @@ Join our lab in the Twin Cities! We often have open positions for [graduate stud
 
 #### Postdoctoral Opportunities
 
-#### Genomic Breeding Post Doc – Potatoes
+#### Genomic Breeding Post Doc
 
 The Shannon Potato Genomics and Breeding Lab at University of Minnesota is looking for a genomic breeding post doc to analyze genomic, phenomic, agronomic, and environmental data for the breeding program. The Shannon Lab breeds russets, chips, and fresh-market red and yellow potatoes at the tetraploid and diploid level. We develop high yielding potato varieties with enhanced quality traits and increased biotic and abiotic stress resistance for Minnesota growers. Initially, the post doc will be responsible for RenSeq analysis for powdery scab resistance, GWAS analysis for verticillium wilt resistance, and building/updating genomic selection models for the breeding program. However, there will also be opportunities to develop new projects and directions based on interests. The Shannon lab collaborates closely with other breeding programs in the North Central Region (NDSU, UW, MSU) and the candidate will be invited to participate in these collaborations.
 
