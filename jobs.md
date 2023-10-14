@@ -8,9 +8,9 @@ bigimg: "/img/display_garden.jpg"
 
 Join our lab in the Twin Cities! We often have open positions for [graduate students](#graduate-research), [postdocs](#postdoctoral-opportunities), [undergrads](#undergraduate-research), and [researchers](#researchers). Feel free to reach out even if we do not have open opportunities!
 
-### Specific Opportunities
+## Specific Opportunities
 
-#### Postdoctoral Opportunities
+### Postdoctoral Opportunities
 
 #### Genomic Breeding Post Doc
 
@@ -22,11 +22,11 @@ In the Shannon lab we work to create the kind of diverse scientific communities 
 
 Please apply with cover letter, CV, and sample publication through the [University of Minnesota hiring portal](https://hr.umn.edu/Jobs/Find-Job) and search for job **358143**. Questions can be directed to Dr. Laura Shannon: lmshannon@umn.edu. The salary range for this position is $54,840.00 to $60,000.00.
 
-#### Other Opportunities
+#### Other Postdoc Opportunities
 
 If you're interested in working with us on a different project, feel free to email Dr. Shannon about applying for independent funding as she is happy to help develop project ideas for postdoc fellowships. Please include a CV and 2 first author manuscripts (pre-prints are fine) in your email.  In general we look for postdocs with computational genetics experience.
 
-#### Undergraduate Research
+### Undergraduate Research
 
 We regularly hire undergraduates as research assistants in the field and greenhouse. In particular we look for students who are enthusiastic about plant care, don't mind dirt, are willing to lift crates of potatoes, and would like to learn about potato breeding and genetics. 
 
@@ -34,6 +34,6 @@ Interested in summer opportunities? We are looking for undergrad workers to help
 
 We also love to hire students through the [Undergraduate Research Opportunities Program](https://ugresearch.umn.edu/opportunities/urop). If you'd like to put together a project related to potato breeding or potato evolution please contact Dr. Shannon introducing yourself and your research interests. We are happy to help you develop your own research project!
 
-#### Researchers
+### Researchers
 
 There are currently no open researcher positions.

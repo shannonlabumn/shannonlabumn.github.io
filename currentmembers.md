@@ -147,85 +147,12 @@ Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys workin
 
 ## Undergraduates
 
-### Julia Lau
-
-<p align="justify">
-
-<figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/julia.jpg" width="300" alt="" align="left">
-</div>
-</figure>
-
-Julia is a senior majoring in Bioproducts and Biosystems Engineering with a focus in Ecological and Environmental Engineering. She is currently working as a Greenhouse and Lab Assistant with the Shannon Lab and loves plants and is interested in how plants alter the soil and affect the environment. In her free time, she loves hiking, marching band, and spending quality time with her friends.</p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
-
-
-
-### Ian Spencer
-
-<p align="justify">
-
-<figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/Ian.jpg" width="300" alt="" align="left">
-</div>
-</figure>
-
-
-Ian is majoring in Ecology, Evolution and Behavior with an interest in Marine Biology. He is interested in how plants and organisms interact with each other and how they affect the surrounding ecosystem. In his free time he enjoys playing musical instruments, building metal and wooden model kits, and playing games with friends.</p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
-
-
-### Dat Vo
-
-<p align="justify">
-
-<figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/Dat.jpeg" width="300" alt="" align="left">
-</div>
-</figure>
-
-
-Dat is a Senior Majoring in Biology with an interest in horticulture. He is interested in the processes of plant growth and development. In his free time, he enjoys cooking Vietnamese cuisine, going to the gym, and building computers. </p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
-
-
 ### Miranda Gregory
 
 <p align="justify">
 
 <figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
 	<img src="/img/Miranda.jpeg" width="300" alt="" align="left">
 </div>
 </figure>
@@ -243,25 +170,3 @@ Miranda is a freshman intending to major in Biology, Society, and Environment (B
  <br/>
  <br/>
 
-
-### Ena Vigil
-
-<p align="justify">
-
-<figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/Ena.jpeg" width="300" alt="" align="left">
-</div>
-</figure>
-
-
-Ena is a junior majoring in Environmental Science, Policy, and Management with interest in wildlife and nature as a whole. She is interested in studying ecosystems and the wildlife interactions within different spheres as well as finding solutions to complex questions pertaining to climate change. Her hobbies include: spending time with her pets, reading, singing and doing theatre, watching movies, and trying new restaurants!</p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
