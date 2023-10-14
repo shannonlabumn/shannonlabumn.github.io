@@ -5,6 +5,8 @@ bigimg: "/img/folks_in_field.png"
 ---
 
 ### 2023
+* Agha, H. I., Shannon, L. M., & Morrell, P. L. Unloading potatoes: Potato breeding moves forward with only half the genome. Cell Genomics, (2023). [https://doi.org/10.1016/j.xgen.2023.100343](https://doi.org/10.1016/j.xgen.2023.100343)
+
 * Agha, H.I., Schroeder, L., Eikholt, D., Schmitz Carley, C.A., Cavendar-Bares, J., and Shannon, L.M. Assessing the Effectiveness of Reflectance Spectroscopy Analysis to Determine Ploidy in Potato. Am. J. Potato res. (2023). [https://doi.org/10.1007/s12230-022-09899-8](https://doi.org/10.1007/s12230-022-09899-8)
 
 ### 2022
