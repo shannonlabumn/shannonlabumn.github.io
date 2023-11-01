@@ -104,15 +104,25 @@ Yusuf is a PhD student in the Applied Plant Sciences program studying breeding a
  <br/>
  <br/>
 
-### Timi
+### Timileyin Sunmonu
 
+<p align="justify">
 
+<figure>
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/timi.jpg" width="300" alt="" align="left">
+</div>
+</figure>
+
+BIO
+
+</p> 
 
 ### Jessi Huege
 <p align="justify">
 
 <figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
 	<img src="/img/Jessi.png" width="300" height="399" alt="" align="left">
 </div>
 </figure>
@@ -129,19 +139,6 @@ Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys workin
 <br/>
 <br/>
 
-### Harpreet
-
-<p align="justify">
-
-<figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/harpreet.png" width="300" height="399" alt="" align="left">
-</div>
-</figure>
-
-BIO. </p>
-<br/>
-
 ## Undergraduates
 
 ### Miranda Gregory
@@ -149,7 +146,7 @@ BIO. </p>
 <p align="justify">
 
 <figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<img src="/img/Miranda.jpeg" width="300" alt="" align="left">
 </div>
 </figure>
