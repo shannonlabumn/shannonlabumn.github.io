@@ -114,9 +114,14 @@ Yusuf is a PhD student in the Applied Plant Sciences program studying breeding a
 </div>
 </figure>
 
-BIO
-
-</p> 
+Timi is a PhD student in the Applied Plant Sciences program studying Plant Breeding/Molecular Genetics. He is currently examining the difference between diploids and tetraploids potato using the dihaploids. He earned his B.Sc in Botany and M.Sc in Plant Genetics/Molecular Biology from the University of Ibadan, Nigeria. In his free time, Timi enjoys playing Soccer. </p> 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Jessi Huege
 <p align="justify">
