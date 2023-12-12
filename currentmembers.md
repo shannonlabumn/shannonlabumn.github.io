@@ -31,98 +31,6 @@ For a list of Dr. Shannon's publications, <a href="http://scholar.google.com/cit
 Dr. Stefaniak is a Researcher 6, Breeding Specialist in the Department of Horticulture. He is a plant breeder by training focusing on the development of new high yielding cultivars with improved disease tolerance and better quality. Thomas earned his B.A. from Michigan State University majoring in humanities, and his graduate degrees from the University of Kentucky majoring in Crop Science, minoring in plant physiology. He completed his education as a post-doctoral researcher at Texas A & M. Crops that Thomas has worked with throughout his career include soybean, melon, dry bean, tobacco, bermudagrass, sorghum, pea, lentil, chickpea, and now potato. Thomas enjoys tennis, exercise, reading, and streaming movies and television.<br/>
 </p>
 
-### Husain Agha
-<p align="justify">
-
-<figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/husain.png" width="300" alt="Picture of Husain in the field" align="left">
-</div>
-</figure>
-
-Husain is a PhD student in the Plant & Microbial Biology program studying plant quantitative and population genetics and is currently investigating the consequences of whole genome duplication. He received a Bachelor of Arts in Classical Humanities at the University of Missouri in 2018. When he is not in the lab, you can find him rock climbing or out on his bicycle! Husain is passionate about improving diversity, equity, and inclusion of underrepresented minorities in the sciences, and currently serves as a member of his graduate program's DEI committee. To find out more about Husain's research, <a href="https://shannonlabumn.github.io/research"> click here. </a>
-</p>
- <br/>
- <br/>
- <br/>
-
-### Heather Tuttle
-<p align="justify">
-
-<figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/heather.jpg" width="300" alt="" align="left">
-</div>
-</figure>
-
-
-Heather is working toward her Master's degree in the Biomedical Informatics and Computational Biology program and is currently developing a core germplasm subset for the US potato genebank.  While Heather is not in the lab, she enjoys going on walks around the city lakes, going to concerts, and collecting rocks and minerals.</p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
-
-
-### Megan Harder
-<p align="justify">
-
-<figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/Megan.jpeg" width="300" height="399" alt="" align="left">
-</div>
-</figure>
-
-
-Megan joined the lab in 2021 as a researcher. Her primary role is in data management, curating the "potatobase" and analyzing the lab's data. She also helps keep things organized as the lab's project manager. Megan is a neophyte to plant breeding, having received her B.A. in Geology from Carleton College where she completed a senior thesis in metamorphic petrology. In her free time, Megan enjoys baking, Brazilian Jiu-Jitsu, writing, and thrifting. </p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
-
-
-### Muyideen Yusuf
-<p align="justify">
-
-<figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/yusuf.jpg" width="300" alt="" align="left">
-</div>
-</figure>
-
-
-Yusuf is a PhD student in the Applied Plant Sciences program studying breeding and molecular genetics. He is currently evaluating strategies for inbred development from potato diploid population. He earned his M.S. in Plant Genetics from the University of Ibadan in Nigeria. He loves reading, making jokes, traveling, and making new friends. </p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
-
-### Timileyin Sunmonu
-
-<p align="justify">
-
-<figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/timi.jpg" width="300" alt="" align="left">
-</div>
-</figure>
-
-Timi is a PhD student in the Applied Plant Sciences program studying Plant Breeding/Molecular Genetics. He is currently examining the difference between diploids and tetraploids potato using the dihaploids. He earned his B.Sc in Botany and M.Sc in Plant Genetics/Molecular Biology from the University of Ibadan, Nigeria. In his free time, Timi enjoys playing Soccer. </p> 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 ### Jessi Huege
 <p align="justify">
 
@@ -144,28 +52,37 @@ Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys workin
 <br/>
 <br/>
 
-## Undergraduates
+### Graduate Students
+<p align="justify">
 
-### Miranda Gregory
+<figure>
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/grad_potatoes.png" width="300" alt="" align="left">
+</div>
+</figure>
+
+There are currently 4 PhD students in the lab in the APS and BICB programs, working on everything from using sequence data to elucidate the history of potato domestication to incorporating drone images into genomic selection models. However University HR tells us we aren't able to provide information on individuals.</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### Undergraduates
 
 <p align="justify">
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/Miranda.jpeg" width="300" alt="" align="left">
+	<img src="/img/undergrad_potatoes.jpg" width="300" alt="" align="left">
 </div>
 </figure>
 
 
-Miranda is a freshman intending to major in Biology, Society, and Environment (BSE) with interest in the health care field. In her free time, she enjoys kayaking, backpacking, and hiking. She also loves to make sustainable meals and develop new baking recipes!</p>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
+We rely on a team of undergraduates for plant care, phenotyping, and lab maintenance as well hosting undergraduate researchers for internships, honors thesis research, UROPs, and the SOAR REEU program. Unfortunately, University HR tells us we aren't able to provide information on individuals, we assure you they're great.<\p>
+
 

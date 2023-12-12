@@ -4,6 +4,11 @@ title: Past Members
 bigimg: "img/colins_defense.jpg"
 ---
 
+
+### Megan Harder
+
+Megan finished her time in the lab as a researcher in 2023. Her primary role was in data management, curating the "potatobase" and analyzing the lab's data. She currently works for the US Geological Survey in Missouri.
+
 ### Michael Miller
 
 Michael graduated from the Applied Plant Sciences program with his M.S. in the summer of 2022. He developed an R package called TubAR (Tuber Analysis in R) for quantitative phenotyping using machine learning and image analysis. He is now working for Seneca Foods as a research technician with their breeding program.
