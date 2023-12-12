@@ -80,6 +80,6 @@ There are currently 4 PhD students in the lab in the APS and BICB programs, work
 </figure>
 
 
-We rely on a team of undergraduates for plant care, phenotyping, and lab maintenance as well hosting undergraduate researchers for internships, honors thesis research, UROPs, and the SOAR REEU program. Unfortunately, University HR tells us we aren't able to provide information on individuals, we assure you they're great.<\p>
+We rely on a team of undergraduates for plant care, phenotyping, and lab maintenance as well hosting undergraduate researchers for internships, honors thesis research, UROPs, and the SOAR REEU program. Unfortunately, University HR tells us we aren't able to provide information on individuals, we assure you they're great.</p>
 
 
