@@ -35,7 +35,7 @@ Dr. Stefaniak is a Researcher 6, Breeding Specialist in the Department of Hortic
 <p align="justify">
 
 <figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<img src="/img/Jessi.png" width="300" height="399" alt="" align="left">
 </div>
 </figure>
@@ -68,17 +68,14 @@ There are currently 4 PhD students in the lab in the APS and BICB programs, work
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 ### Undergraduates
 
 <p align="justify">
 
 <figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/undergrad_potatoes.jpg" width="300" alt="" align="left">
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/undergrad_potatoes.png" width="300" alt="" align="left">
 </div>
 </figure>
 
