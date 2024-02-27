@@ -24,7 +24,7 @@ Dr. Shannon is an associate professor of potato breeding, genetics, and genomics
 <p align="justify">
 
 <figure>
-<div style="float: left; padding-left: 25px; padding-bottom: 25px">
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<img src="/img/thomas.png" width="200" alt="" align="right">
 </div>
 </figure>
@@ -55,7 +55,7 @@ Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys workin
 <p align="justify">
 
 <figure>
-<div style="float: left; padding-left: 25px; padding-bottom: 25px">
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<img src="/img/Lauren.png" width="200" alt="" align="right">
 </div>
 </figure>
@@ -102,7 +102,7 @@ There are currently 4 PhD students in the lab in the APS and BICB programs, work
 <p align="justify">
 
 <figure>
-<div style="float: left; padding-left: 25px; padding-bottom: 25px">
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<img src="/img/undergrad_potatoes.png" width="200" alt="" align="right">
 </div>
 </figure>
