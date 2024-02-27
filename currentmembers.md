@@ -68,7 +68,7 @@ Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys workin
 </div>
 </figure>
 
-Lauren is a researcher for the Department of Horticulture. She earned her B.S. in Plant Science with a minor in Horticulture at the University of Minnesota-Twin Cities. She then earned her M.S. in Seed Technology and Business from Iowa State University.
+Lauren is a Researcher for the Department of Horticulture. She earned her B.S. in Plant Science with a minor in Horticulture at the University of Minnesota-Twin Cities. She then earned her M.S. in Seed Technology and Business from Iowa State University.
 <br/>
 <br/>
 <br/>
@@ -88,7 +88,7 @@ Lauren is a researcher for the Department of Horticulture. She earned her B.S. i
 </div>
 </figure>
 
-Amy is a project and data manager for the Shannon Potato Lab in the Department of Horticulture. Formerly a K-12 educator, she earned her B.A. in German Studies (UMN), her M.Ed. in curriculum and instruction (UMN) with extensive work in educational technology (BSU) and she continues to pursue learning in computer science and horticulture. Amy runs a small alpaca farm in Oak Grove, MN and she enjoys gardening, hunting, horseback riding, and traveling.</p>
+Amy is a Project and Data Manager for the Shannon Potato Lab in the Department of Horticulture. Formerly a K-12 educator, she earned her B.A. in German Studies (UMN), her M.Ed. in curriculum and instruction (UMN) with extensive work in educational technology (BSU) and she continues to pursue learning in computer science and horticulture. Amy runs a small alpaca farm in Oak Grove, MN and she enjoys gardening, hunting, horseback riding, and traveling.</p>
 
 <br/>
 <br/>
