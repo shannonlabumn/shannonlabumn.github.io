@@ -24,8 +24,8 @@ Dr. Shannon is an associate professor of potato breeding, genetics, and genomics
 <p align="justify">
 
 <figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/thomas.png" width="200" alt="" align="left">
+<div style="float: left; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/thomas.png" width="200" alt="" align="right">
 </div>
 </figure>
 
@@ -50,13 +50,13 @@ Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys workin
 <br/>
 </p>
 
-<br/>
+
 ### Lauren Sexton
 <p align="justify">
 
 <figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/Lauren.png" width="200" alt="" align="left">
+<div style="float: left; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/Lauren.png" width="200" alt="" align="right">
 </div>
 </figure>
 
@@ -66,7 +66,7 @@ Lauren is a Researcher for the Department of Horticulture. She earned her B.S. i
 <br/>
 </p>
 
-<br/>
+
 ### Amy Hatchner
 <p align="justify">
 
@@ -87,8 +87,8 @@ Amy is a Project and Data Manager for the Shannon Potato Lab in the Department o
 <p align="justify">
 
 <figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/grad_potatoes.png" width="200" alt="" align="left">
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/grad_potatoes.png" width="200" alt="" align="right">
 </div>
 </figure>
 
@@ -102,8 +102,8 @@ There are currently 4 PhD students in the lab in the APS and BICB programs, work
 <p align="justify">
 
 <figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/undergrad_potatoes.png" width="200" alt="" align="left">
+<div style="float: left; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/undergrad_potatoes.png" width="200" alt="" align="right">
 </div>
 </figure>
 
