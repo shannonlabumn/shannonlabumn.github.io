@@ -88,13 +88,12 @@ Lauren is a researcher for the Department of Horticulture. She earned her B.S. i
 </div>
 </figure>
 
-Amy is a project and data manager for the Shannon Potato Lab in the Department of Horticulture. Formerly a K-12 educator, she earned her B.A. in German Studies (UMN), her M.Ed. in Curriculum and Instruction (UMN) and Educational Technology (BSU) and she continues to pursue learning in computer science and horticulture. Amy runs a small alpaca farm in Oak Grove, MN and she enjoys gardening, hunting, horseback riding, and traveling.</p>
+Amy is a project and data manager for the Shannon Potato Lab in the Department of Horticulture. Formerly a K-12 educator, she earned her B.A. in German Studies (UMN), her M.Ed. in curriculum and instruction (UMN) with extensive work in educational technology (BSU) and she continues to pursue learning in computer science and horticulture. Amy runs a small alpaca farm in Oak Grove, MN and she enjoys gardening, hunting, horseback riding, and traveling.</p>
+
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
 
 ### Graduate Students
 <p align="justify">
