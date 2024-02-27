@@ -9,7 +9,7 @@ bigimg: "/img/groupPhoto2023_cropped.jpeg"
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/laura.jpg" width="300" alt="" align="left">
+	<img src="/img/laura.jpg" width="200" alt="" align="left">
 </div>
 </figure>
 
@@ -25,7 +25,7 @@ Dr. Shannon is an associate professor of potato breeding, genetics, and genomics
 
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/thomas.png" width="300" alt="" align="left">
+	<img src="/img/thomas.png" width="200" alt="" align="left">
 </div>
 </figure>
 
@@ -40,7 +40,7 @@ Dr. Stefaniak is a Researcher 6, Breeding Specialist in the Department of Hortic
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/Jessi.png" width="300" height="399" alt="" align="left">
+	<img src="/img/Jessi.png" width="200" alt="" align="left">
 </div>
 </figure>
 
@@ -64,7 +64,7 @@ Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys workin
 
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/Lauren.png" width="300" alt="" align="left">
+	<img src="/img/Lauren.png" width="200" alt="" align="left">
 </div>
 </figure>
 
@@ -84,7 +84,7 @@ Lauren is a Researcher for the Department of Horticulture. She earned her B.S. i
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/Amy.jpeg" width="300" alt="" align="left">
+	<img src="/img/Amy.jpeg" width="200" alt="" align="left">
 </div>
 </figure>
 
@@ -100,7 +100,7 @@ Amy is a Project and Data Manager for the Shannon Potato Lab in the Department o
 
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/grad_potatoes.png" width="300" alt="" align="left">
+	<img src="/img/grad_potatoes.png" width="200" alt="" align="left">
 </div>
 </figure>
 
@@ -115,7 +115,7 @@ There are currently 4 PhD students in the lab in the APS and BICB programs, work
 
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/undergrad_potatoes.png" width="300" alt="" align="left">
+	<img src="/img/undergrad_potatoes.png" width="200" alt="" align="left">
 </div>
 </figure>
 
