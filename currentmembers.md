@@ -47,17 +47,8 @@ Dr. Stefaniak is a Researcher 6, Breeding Specialist in the Department of Hortic
 Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys working with plants and learning to better understand the physiology and development of plants. In her free time, she likes to garden and create botanical illustrations.
 <br/>
 <br/>
+<br/>
 </p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### Lauren Sexton
 <p align="justify">
@@ -69,11 +60,6 @@ Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys workin
 </figure>
 
 Lauren is a Researcher for the Department of Horticulture. She earned her B.S. in Plant Science with a minor in Horticulture at the University of Minnesota-Twin Cities. She then earned her M.S. in Seed Technology and Business from Iowa State University.
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
