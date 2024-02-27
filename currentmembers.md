@@ -72,7 +72,7 @@ Lauren is a Researcher for the Department of Horticulture. She earned her B.S. i
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/Amy.jpeg" width="200" alt="" align="left">
+	<img src="/img/Amy.jpeg" width="200" alt="" align="right">
 </div>
 </figure>
 
