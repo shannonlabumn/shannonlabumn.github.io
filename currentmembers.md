@@ -44,7 +44,10 @@ Dr. Stefaniak is a Researcher 6, Breeding Specialist in the Department of Hortic
 </div>
 </figure>
 
-Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys working with plants and learning to better understand the physiology and development of plants. In her free time, she likes to garden and create botanical illustrations.</p>
+Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys working with plants and learning to better understand the physiology and development of plants. In her free time, she likes to garden and create botanical illustrations.
+<br/>
+<br/>
+</p>
 <br/>
 <br/>
 <br/>
@@ -67,6 +70,9 @@ Lauren is a researcher for the Department of Horticulture. She earned her B.S. i
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 </p>
 
 ### Amy Hatchner
@@ -79,6 +85,9 @@ Lauren is a researcher for the Department of Horticulture. She earned her B.S. i
 </figure>
 
 Amy is a project and data manager for the Shannon Potato Lab in the Department of Horticulture. Formerly a K-12 educator, she earned her B.A. in German Studies (UMN), her M.Ed. in Curriculum and Instruction (UMN) and Educational Technology (BSU) and she continues to pursue learning in computer science and horticulture. Amy runs a small alpaca farm in Oak Grove, MN and she enjoys gardening, hunting, horseback riding, and traveling.</p>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
