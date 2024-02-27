@@ -56,6 +56,8 @@ Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys workin
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 ### Lauren Sexton
 <p align="justify">
@@ -67,6 +69,8 @@ Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys workin
 </figure>
 
 Lauren is a researcher for the Department of Horticulture. She earned her B.S. in Plant Science with a minor in Horticulture at the University of Minnesota-Twin Cities. She then earned her M.S. in Seed Technology and Business from Iowa State University.
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
