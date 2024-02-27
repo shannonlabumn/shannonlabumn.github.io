@@ -48,6 +48,9 @@ Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys workin
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 </p>
 
 
@@ -64,6 +67,9 @@ Lauren is a Researcher for the Department of Horticulture. She earned her B.S. i
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+
 </p>
 
 
