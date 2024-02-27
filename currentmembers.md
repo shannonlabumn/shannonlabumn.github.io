@@ -20,24 +20,18 @@ Dr. Shannon is an associate professor of potato breeding, genetics, and genomics
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 </p>
 
 ### Dr. Thomas Stefaniak
 <p align="justify">
 
 <figure>
-<div style="float: left; padding-left: 25px; padding-bottom: 25px">
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<img src="/img/thomas.png" width="300" alt="" align="left">
 </div>
 </figure>
 
 Dr. Stefaniak is a Researcher 6, Breeding Specialist in the Department of Horticulture. He is a plant breeder by training focusing on the development of new high yielding cultivars with improved disease tolerance and better quality. Thomas earned his B.A. from Michigan State University majoring in humanities, and his graduate degrees from the University of Kentucky majoring in Crop Science, minoring in plant physiology. He completed his education as a post-doctoral researcher at Texas A & M. Crops that Thomas has worked with throughout his career include soybean, melon, dry bean, tobacco, bermudagrass, sorghum, pea, lentil, chickpea, and now potato. Thomas enjoys tennis, exercise, reading, and streaming movies and television.
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -67,9 +61,6 @@ Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys workin
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 
 ### Graduate Students
@@ -82,9 +73,6 @@ Formerly an undergrad with the lab, Jessi is now a Researcher. She enjoys workin
 </figure>
 
 There are currently 4 PhD students in the lab in the APS and BICB programs, working on everything from using sequence data to elucidate the history of potato domestication to incorporating drone images into genomic selection models. However University HR tells us we aren't able to provide information on individuals.</p>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
