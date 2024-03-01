@@ -33,6 +33,21 @@ Dr. Stefaniak is a Researcher 6, Breeding Specialist in the Department of Hortic
 <br/>
 </p>
 
+### Dr. Harpreet Kaur
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/Harpreet.png" width="200" alt="" align="right">
+</div>
+</figure>
+
+Harpreet Kaur is a postdoctoral associate at Department of Horticultural Sciences. She earned her Ph.D. in Plant and Environmental Sciences (Major: Plant Breeding) from New Mexico State University, NM. Her master’s and undergraduate degrees are from Punjab Agricultural University, Punjab, India. Her current project involves whole genome sequencing and pangenomic analyses in alfalfa crop which, like potatoes, is another autopolyploid species. She loves working with plants and enjoys outdoor activities like gardening and camping trips. Painting is also something she loves to do in her spare time.
+
+<br/>
+<br/>
+</p>
+
 ### Jessi Huege
 <p align="justify">
 
