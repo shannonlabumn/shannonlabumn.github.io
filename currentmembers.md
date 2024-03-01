@@ -48,7 +48,6 @@ Harpreet Kaur is a postdoctoral associate at Department of Horticultural Science
 <br/>
 <br/>
 <br/>
-<br/>
 </p>
 
 ### Jessi Huege
