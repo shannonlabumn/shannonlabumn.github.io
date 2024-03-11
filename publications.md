@@ -4,6 +4,9 @@ title: Publications
 bigimg: "/img/folks_in_field.png"
 ---
 
+### 2024
+* Feldman, M. J., Park, J., Miller, N., Wakholi, C., Greene, K., Abbasi, A., Rippner, D. A., Navarre, D., Schmitz Carley, C., Shannon, L. M., & Novy, R. (2024). A scalable, low-cost phenotyping strategy to assess tuber size, shape, and the colorimetric features of tuber skin and flesh in potato breeding populations. The Plant Phenome Journal, 7, e20099. [https://doi.org/10.1002/ppj2.20099](https://doi.org/10.1002/ppj2.20099)
+
 ### 2023
 * Agha, H. I., Shannon, L. M., & Morrell, P. L. Unloading potatoes: Potato breeding moves forward with only half the genome. Cell Genomics, (2023). [https://doi.org/10.1016/j.xgen.2023.100343](https://doi.org/10.1016/j.xgen.2023.100343)
 
