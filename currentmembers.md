@@ -33,6 +33,28 @@ Dr. Stefaniak is a Researcher 6, Breeding Specialist in the Department of Hortic
 <br/>
 </p>
 
+### Dr. Fang Wang
+
+<p align="justify">
+<figure>
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/Fang.png" width="200" alt="" align="right">
+</div>
+</figure>
+
+Fang Wang is a postdoc research associate in the Department of Horticultural Science.
+She earned her Ph.D. majoring in Plant Breeding and Genetics with a minor in Statistics
+from University of Nebraska-Lincoln. She completed her master in Crop Science from
+Chinese Academy of Agricultural Sciences, Beijing, China. Her undergraduate degree
+was in Plant Protection from Qingdao Agricultural University, China. She enjoys biking,
+hiking, playing badminton in her free time.
+
+<br/>
+<br/>
+<br/>
+<br/>
+</p>
+
 ### Dr. Harpreet Kaur
 
 <p align="justify">
@@ -86,19 +108,6 @@ Lauren is a Researcher for the Department of Horticulture. She earned her B.S. i
 <br/>
 
 </p>
-
-
-### Amy Hatchner
-<p align="justify">
-
-<figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/Amy.jpeg" width="200" alt="" align="right">
-</div>
-</figure>
-
-Amy is a Project and Data Manager for the Shannon Potato Lab in the Department of Horticulture. Formerly a K-12 educator, she earned her B.A. in German Studies (UMN), her M.Ed. in curriculum and instruction (UMN) with extensive work in educational technology (BSU) and she continues to pursue learning in computer science and horticulture. Amy runs a small alpaca farm in Oak Grove, MN and she enjoys gardening, hunting, horseback riding, and traveling.</p>
-<br/>
 
 
 ### Graduate Students
