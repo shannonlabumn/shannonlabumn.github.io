@@ -5,15 +5,13 @@ bigimg: "/img/folks_in_field.png"
 ---
 
 ### 2024
-* Agha, H.I., Endelman, J.B., Chitwood-Brown, J. et al. Genotype-by-environment interactions and local adaptation shape selection in the US National Chip Processing Trial. Theor Appl Genet 137, 99 (2024). https://doi.org/10.1007/s00122-024-04610-3
-
-* Feldman, M. J., Park, J., Miller, N., Wakholi, C., Greene, K., Abbasi, A., Rippner, D. A., Navarre, D., Schmitz Carley, C., Shannon, L. M., & Novy, R. (2024). A scalable, low-cost phenotyping strategy to assess tuber size, shape, and the colorimetric features of tuber skin and flesh in potato breeding populations. The Plant Phenome Journal, 7, e20099. [https://doi.org/10.1002/ppj2.20099](https://doi.org/10.1002/ppj2.20099)
-
-* Tuttle, H.K., Del Rio A.H., Bamberg J.B., & Shannon L.M. Potato Soup: Analysis of Cultivated Potato Gene Bank Populations Reveals High Diversity and Little Structure. Frontiers in Plant Science, (2024).[https://doi.org/10.3389/fpls.2024.1429279.](https://doi.org/10.3389/fpls.2024.1429279.)
+* Tuttle, H.K., Del Rio A.H., Bamberg J.B., & Shannon L.M. (2024). Potato Soup: Analysis of Cultivated Potato Gene Bank Populations Reveals High Diversity and Little Structure. Frontiers in Plant Science.[https://doi.org/10.3389/fpls.2024.1429279.](https://doi.org/10.3389/fpls.2024.1429279.)
 
 * Endelman, J.B., Kante, M., Lindqvist-Kreuze, H., Kilian, A., Shannon, L.M., Caraza-Harter, M.V., Vaillancourt, B., Mailloux, K., Hamilton, J.P., & Buell, C.R. (2024). Targeted genotyping-by-sequencing of potato and data analysis with R/polyBreedR. The Plant Genome, e20484. [https://doi.org/10.1002/tpg2.20484](https://doi.org/10.1002/tpg2.20484)
 
+* Agha, H.I., Endelman, J.B., Chitwood-Brown, J. et al. Genotype-by-environment interactions and local adaptation shape selection in the US National Chip Processing Trial. Theor Appl Genet 137, 99 (2024). https://doi.org/10.1007/s00122-024-04610-3
 
+* Feldman, M. J., Park, J., Miller, N., Wakholi, C., Greene, K., Abbasi, A., Rippner, D. A., Navarre, D., Schmitz Carley, C., Shannon, L. M., & Novy, R. (2024). A scalable, low-cost phenotyping strategy to assess tuber size, shape, and the colorimetric features of tuber skin and flesh in potato breeding populations. The Plant Phenome Journal, 7, e20099. [https://doi.org/10.1002/ppj2.20099](https://doi.org/10.1002/ppj2.20099)
 
 ### 2023
 * Agha, H. I., Shannon, L. M., & Morrell, P. L. Unloading potatoes: Potato breeding moves forward with only half the genome. Cell Genomics, (2023). [https://doi.org/10.1016/j.xgen.2023.100343](https://doi.org/10.1016/j.xgen.2023.100343)
