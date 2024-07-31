@@ -9,11 +9,11 @@ Dr. Heather Tuttle earned her PhD from the Bioinformatics and Computational Biol
 
 ### Dr. Xiaoxi Meng
 
-Dr. Xiaoxi Meng was a post doc in the lab who's work focused on bioinformatics in support of diploid breeding. She is currently a Bioinformatic Scientist and St. Jude Children's Hospital.
+Dr. Xiaoxi Meng was a post doc in the lab whose work focused on bioinformatics in support of diploid breeding. She is currently a Bioinformatic Scientist and St. Jude Children's Hospital.
 
 ### Dr. Husain Agha
 
-Dr. Husain Agha earned his PhD from the Plant and Microbial Sciences Program. His work focused on understanding the effects of selection, plasticity, and ploidy in potato. He is currently a post doc in the Emily Joseph's lab at MSU.
+Dr. Husain Agha earned his PhD from the Plant and Microbial Sciences Program. His work focused on understanding the effects of selection, plasticity, and ploidy in potato. He is currently a post doc in the Emily Josephs' lab at MSU.
 
 ### Dr. Nicole Mihelich
 
