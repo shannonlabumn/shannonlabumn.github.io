@@ -20,7 +20,7 @@ The position is reappointed on an annual basis. Start date is flexible. The lab 
 
 In the Shannon lab we work to create the kind of diverse scientific communities we want to be part of. People of all backgrounds are encouraged to apply and we expect applicants to have a similar commitment to creating and maintaining an inclusive environment where potatoes and people can grow.
 
-Please apply with cover letter, CV, and sample publication through the [University of Minnesota hiring portal](https://hr.umn.edu/Jobs/Find-Job) and search for job **358143**. Questions can be directed to Dr. Laura Shannon: lmshannon@umn.edu. The salary range for this position is $54,840.00 to $60,000.00.
+Please apply with cover letter, CV, and sample publication through the [University of Minnesota hiring portal](https://hr.umn.edu/Jobs/Find-Job) and search for job **363794**. Questions can be directed to Dr. Laura Shannon: lmshannon@umn.edu. The salary range for this position is $54,840.00 to $60,000.00.
 
 #### Other Postdoc Opportunities
 
