@@ -5,6 +5,8 @@ bigimg: "/img/folks_in_field.png"
 ---
 
 ### 2024
+* Yusuf, M., Miller, M. D., Stefaniak, T. R., Haagenson, D., Endelman, J. B., Thompson, A. L., & Shannon, L. M. (2024). Genomic prediction for potato (Solanum tuberosum) quality traits improved through image analysis. The Plant Genome, e20507.[https://doi.org/10.1002/tpg2.20507](https://doi.org/10.1002/tpg2.20507)
+
 * Tuttle, H.K., Del Rio A.H., Bamberg J.B., & Shannon L.M. (2024). Potato Soup: Analysis of Cultivated Potato Gene Bank Populations Reveals High Diversity and Little Structure. Frontiers in Plant Science.[https://doi.org/10.3389/fpls.2024.1429279.](https://doi.org/10.3389/fpls.2024.1429279.)
 
 * Endelman, J.B., Kante, M., Lindqvist-Kreuze, H., Kilian, A., Shannon, L.M., Caraza-Harter, M.V., Vaillancourt, B., Mailloux, K., Hamilton, J.P., & Buell, C.R. (2024). Targeted genotyping-by-sequencing of potato and data analysis with R/polyBreedR. The Plant Genome, e20484. [https://doi.org/10.1002/tpg2.20484](https://doi.org/10.1002/tpg2.20484)
