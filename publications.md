@@ -11,7 +11,7 @@ bigimg: "/img/folks_in_field.png"
 
 * Endelman, J.B., Kante, M., Lindqvist-Kreuze, H., Kilian, A., Shannon, L.M., Caraza-Harter, M.V., Vaillancourt, B., Mailloux, K., Hamilton, J.P., & Buell, C.R. (2024). Targeted genotyping-by-sequencing of potato and data analysis with R/polyBreedR. The Plant Genome, e20484. [https://doi.org/10.1002/tpg2.20484](https://doi.org/10.1002/tpg2.20484)
 
-* Agha, H.I., Endelman, J.B., Chitwood-Brown, J. et al. Genotype-by-environment interactions and local adaptation shape selection in the US National Chip Processing Trial. Theor Appl Genet 137, 99 (2024). https://doi.org/10.1007/s00122-024-04610-3
+* Agha, H.I., Endelman, J.B., Chitwood-Brown, J. et al. Genotype-by-environment interactions and local adaptation shape selection in the US National Chip Processing Trial. Theor Appl Genet 137, 99 (2024).[https://doi.org/10.1007/s00122-024-04610-3](https://doi.org/10.1007/s00122-024-04610-3)
 
 * Feldman, M. J., Park, J., Miller, N., Wakholi, C., Greene, K., Abbasi, A., Rippner, D. A., Navarre, D., Schmitz Carley, C., Shannon, L. M., & Novy, R. (2024). A scalable, low-cost phenotyping strategy to assess tuber size, shape, and the colorimetric features of tuber skin and flesh in potato breeding populations. The Plant Phenome Journal, 7, e20099. [https://doi.org/10.1002/ppj2.20099](https://doi.org/10.1002/ppj2.20099)
 
