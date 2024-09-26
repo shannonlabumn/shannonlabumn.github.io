@@ -125,6 +125,7 @@ Logan is a researcher in the Department of Horticultural Science. He earned his 
 <br/>
 <br/>
 <br/>
+<br/>
 
 </p>
 
