@@ -109,6 +109,23 @@ Lauren is a Researcher for the Department of Horticulture. She earned her B.S. i
 
 </p>
 
+### Logan Rodewald
+<p align="justify">
+
+<figure>
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/imageedit_3_2484777294.jpg" width="200" alt="" align="left">
+</div>
+</figure>
+
+Logan is a researcher in the Department of Horticultural Science. He earned his B.S. in Plant and Microbial Biology with a minor in Sociology at the University of Minnesota-Twin Cities. As a former undergrad with the lab, his thesis research focused on developing a phenotypic description of dihaploid potatoes.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+</p>
 
 ### Graduate Students
 <p align="justify">
