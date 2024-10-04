@@ -3,6 +3,10 @@ layout: page
 title: Us in the News
 bigimg: "/img/harvest_MAES2.png"
 ---
+
+### 2024
+* [Paisley Purple potato debuts at local restaurant](https://mndaily.com/285785/arts-entertainment/paisley-purple-potato-debuts-at-local-restaurant/?utm_source=MN+Daily+News+-+Email+Edition&utm_campaign=672e6f99f9-EMAIL_CAMPAIGN_2024_09_20_02_22&utm_medium=email&utm_term=0_-672e6f99f9-%5BLIST_EMAIL_ID%5D) - September 2024
+
 ### 2022
 * [Spudman Magazine: Breeding red varieties that require less nitrogen, By Drs. Thomas Stefaniak and Laura Shannon](http://digital.spudman.com/i/1446621-february-2022/25?) - February 2022
 
