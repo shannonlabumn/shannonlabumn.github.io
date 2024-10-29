@@ -138,7 +138,7 @@ Logan is a researcher in the Department of Horticultural Science. He earned his 
 </div>
 </figure>
 
-There are currently 4 PhD students in the lab in the APS and BICB programs, working on everything from using sequence data to elucidate the history of potato domestication to incorporating drone images into genomic selection models. However University HR tells us we aren't able to provide information on individuals.</p>
+There are currently 3 PhD students in the lab in the APS and BICB programs, working on everything from using sequence data to elucidate the history of potato domestication to incorporating drone images into genomic selection models. However University HR tells us we aren't able to provide information on individuals.</p>
 <br/>
 <br/>
 <br/>
