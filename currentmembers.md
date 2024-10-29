@@ -31,26 +31,6 @@ Dr. Shannon is an associate professor of potato breeding, genetics, and genomics
 Dr. Stefaniak is a Researcher 6, Breeding Specialist in the Department of Horticulture. He is a plant breeder by training focusing on the development of new high yielding cultivars with improved disease tolerance and better quality. Thomas earned his B.A. from Michigan State University majoring in humanities, and his graduate degrees from the University of Kentucky majoring in Crop Science, minoring in plant physiology. He completed his education as a post-doctoral researcher at Texas A & M. Crops that Thomas has worked with throughout his career include soybean, melon, dry bean, tobacco, bermudagrass, sorghum, pea, lentil, chickpea, and now potato. Thomas enjoys tennis, exercise, reading, and streaming movies and television.
 <br/>
 <br/>
-</p>
-
-### Dr. Fang Wang
-
-<p align="justify">
-<figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/Fang.png" width="200" alt="" align="right">
-</div>
-</figure>
-
-Fang Wang is a postdoc research associate in the Department of Horticultural Science.
-She earned her Ph.D. majoring in Plant Breeding and Genetics with a minor in Statistics
-from University of Nebraska-Lincoln. She completed her master in Crop Science from
-Chinese Academy of Agricultural Sciences, Beijing, China. Her undergraduate degree
-was in Plant Protection from Qingdao Agricultural University, China. She enjoys biking,
-hiking, playing badminton in her free time.
-
-<br/>
-<br/>
 <br/>
 <br/>
 </p>
