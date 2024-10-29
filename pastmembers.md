@@ -3,17 +3,25 @@ layout: page
 title: Past Members
 bigimg: "img/colins_defense.jpg"
 ---
+### Dr. Fang Wang
+
+Dr. Fang Wang was a postdoc research associate in the lab whose work focused on powdery scab and developing a quantitative bruise protocol. 
+
 ### Dr. Heather Tuttle
 
 Dr. Heather Tuttle earned her PhD from the Bioinformatics and Computational Biology Program. Her work focused on using genebank data to describe potato diversity.
 
+### Amy Hatchner
+
+Amy served as our Lab Coordinator, overseeing lab scheduling, communications, outreach initiatives, and data organization, as well as designing project materials.
+
 ### Dr. Xiaoxi Meng
 
-Dr. Xiaoxi Meng was a post doc in the lab whose work focused on bioinformatics in support of diploid breeding. She is currently a Bioinformatic Scientist and St. Jude Children's Hospital.
+Dr. Xiaoxi Meng was a postdoc in the lab whose work focused on bioinformatics in support of diploid breeding. She is currently a Bioinformatic Scientist at St. Jude Children's Hospital.
 
 ### Dr. Husain Agha
 
-Dr. Husain Agha earned his PhD from the Plant and Microbial Sciences Program. His work focused on understanding the effects of selection, plasticity, and ploidy in potato. He is currently a post doc in the Emily Josephs' lab at MSU.
+Dr. Husain Agha earned his PhD from the Plant and Microbial Sciences Program. His work focused on understanding the effects of selection, plasticity, and ploidy in potato. He is currently a postdoc in the Emily Josephs' lab at MSU.
 
 ### Dr. Nicole Mihelich
 
