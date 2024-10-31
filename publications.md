@@ -5,6 +5,8 @@ bigimg: "/img/folks_in_field.png"
 ---
 
 ### 2024
+* Kaur, H., Shannon, L.M. & Samac, D.A. A stepwise guide for pangenome development in crop plants: an alfalfa (Medicago sativa) case study. BMC Genomics 25, 1022 (2024).[https://doi.org/10.1186/s12864-024-10931-w](https://doi.org/10.1186/s12864-024-10931-w)
+
 * Yusuf, M., Miller, M. D., Stefaniak, T. R., Haagenson, D., Endelman, J. B., Thompson, A. L., & Shannon, L. M. (2024). Genomic prediction for potato (Solanum tuberosum) quality traits improved through image analysis. The Plant Genome, e20507.[https://doi.org/10.1002/tpg2.20507](https://doi.org/10.1002/tpg2.20507)
 
 * Tuttle, H.K., Del Rio A.H., Bamberg J.B., & Shannon L.M. (2024). Potato Soup: Analysis of Cultivated Potato Gene Bank Populations Reveals High Diversity and Little Structure. Frontiers in Plant Science.[https://doi.org/10.3389/fpls.2024.1429279](https://doi.org/10.3389/fpls.2024.1429279)
