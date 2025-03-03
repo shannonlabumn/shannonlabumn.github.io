@@ -4,6 +4,9 @@ title: Us in the News
 bigimg: "/img/harvest_MAES2.png"
 ---
 
+### 2025
+* [Plant Breeding Center 2024 Year in Review - Faculty Profile: Dr. Laura Shannon](https://heyzine.com/flip-book/64bb9a52ec.html#page/24) - February 2025
+
 ### 2024
 * [This is my Hort-Story: Jessi Huege](https://drive.google.com/file/d/1D3h33loaYNOgDNGCqodf5dWychDgW0pp/view) - October 2024
 * [Paisley Purple potato debuts at local restaurant](https://mndaily.com/285785/arts-entertainment/paisley-purple-potato-debuts-at-local-restaurant/?utm_source=MN+Daily+News+-+Email+Edition&utm_campaign=672e6f99f9-EMAIL_CAMPAIGN_2024_09_20_02_22&utm_medium=email&utm_term=0_-672e6f99f9-%5BLIST_EMAIL_ID%5D) - September 2024
