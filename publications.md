@@ -5,7 +5,7 @@ bigimg: "/img/folks_in_field.png"
 ---
 
 ### 2025
-* McGilp, L., Haas, M.W., Shao, M., Millas, R., Castell-Miller, C., Kern, A.J., Shannon, L.M. and Kimball, J.A. (2025), Towards Stewardship of Wild Species and Their Domesticated Counterparts: A Case Study in Northern Wild Rice (Zizania palustris L.). Ecol Evol, 15: e71033. [https://doi.org/10.1002/ece3.71033]
+* McGilp, L., Haas, M.W., Shao, M., Millas, R., Castell-Miller, C., Kern, A.J., Shannon, L.M. and Kimball, J.A. (2025), Towards Stewardship of Wild Species and Their Domesticated Counterparts: A Case Study in Northern Wild Rice (Zizania palustris L.). Ecol Evol, 15: e71033. [https://doi.org/10.1002/ece3.71033](https://doi.org/10.1002/ece3.71033)
 
 ### 2024
 * Kaur, H., Shannon, L.M. & Samac, D.A. A stepwise guide for pangenome development in crop plants: an alfalfa (Medicago sativa) case study. BMC Genomics 25, 1022 (2024).[https://doi.org/10.1186/s12864-024-10931-w](https://doi.org/10.1186/s12864-024-10931-w)
