@@ -7,6 +7,8 @@ bigimg: "/img/folks_in_field.png"
 ### 2025
 * McGilp, L., Haas, M.W., Shao, M., Millas, R., Castell-Miller, C., Kern, A.J., Shannon, L.M. and Kimball, J.A. (2025), Towards Stewardship of Wild Species and Their Domesticated Counterparts: A Case Study in Northern Wild Rice (Zizania palustris L.). Ecol Evol, 15: e71033. [https://doi.org/10.1002/ece3.71033](https://doi.org/10.1002/ece3.71033)
 
+* Helen H. Tai, Laura M. Shannon, Martina V. Strömvik, Polyploidy in potatoes: challenges and possibilities for climate resilience, Trends in Genetics, 2025, ISSN 0168-9525.[https://doi.org/10.1016/j.tig.2025.03.006.](https://doi.org/10.1016/j.tig.2025.03.006.)
+
 ### 2024
 * Kaur, H., Shannon, L.M. & Samac, D.A. A stepwise guide for pangenome development in crop plants: an alfalfa (Medicago sativa) case study. BMC Genomics 25, 1022 (2024).[https://doi.org/10.1186/s12864-024-10931-w](https://doi.org/10.1186/s12864-024-10931-w)
 
