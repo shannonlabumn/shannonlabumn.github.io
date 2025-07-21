@@ -19,20 +19,6 @@ Dr. Shannon is an associate professor of potato breeding, genetics, and genomics
 <br/>
 </p>
 
-### Dr. Thomas Stefaniak
-<p align="justify">
-
-<figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/thomas.png" width="200" alt="" align="right">
-</div>
-</figure>
-
-Dr. Stefaniak is a Researcher 6, Breeding Specialist in the Department of Horticulture. He is a plant breeder by training focusing on the development of new high yielding cultivars with improved disease tolerance and better quality. Thomas earned his B.A. from Michigan State University majoring in humanities, and his graduate degrees from the University of Kentucky majoring in Crop Science, minoring in plant physiology. He completed his education as a post-doctoral researcher at Texas A & M. Crops that Thomas has worked with throughout his career include soybean, melon, dry bean, tobacco, bermudagrass, sorghum, pea, lentil, chickpea, and now potato. Thomas enjoys tennis, exercise, reading, and streaming movies and television.
-<br/>
-<br/>
-<br/>
-</p>
 
 ### Dr. Harpreet Kaur
 
