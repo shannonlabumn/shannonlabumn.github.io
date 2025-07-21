@@ -3,6 +3,9 @@ layout: page
 title: Past Members
 bigimg: "img/colins_defense.jpg"
 ---
+### Dr. Thomas Stefaniak
+Dr. Thomas Stefaniak was part of our team as a Researcher 6. Drawing on his experience with many different crops throughout his career, he focused on developing new high-yield cultivars with improved disease tolerance and enhanced quality traits in our breeding program.
+
 ### Dr. Fang Wang
 
 Dr. Fang Wang was a postdoc research associate in the lab whose work focused on powdery scab and developing a quantitative bruise protocol. 
