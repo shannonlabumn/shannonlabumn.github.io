@@ -5,7 +5,7 @@ bigimg: "/img/folks_in_field.png"
 ---
 
 ### 2025
-* Vanessa Kambi, Chengyan Yue, Yang Wang, Laura Shannon, Investigating US Potato Farmers’ Preferences for True Potato Seeds, Journal of Agriculture and Food Research, 2025, 102203, ISSN 2666-1543. [https://doi.org/10.1016/j.jafr.2025.102203](https://doi.org/10.1016/j.jafr.2025.102203.)
+* Vanessa Kambi, Chengyan Yue, Yang Wang, Laura Shannon, Investigating US Potato Farmers’ Preferences for True Potato Seeds, Journal of Agriculture and Food Research, 2025, 102203, ISSN 2666-1543. [https://doi.org/10.1016/j.jafr.2025.102203](https://doi.org/10.1016/j.jafr.2025.102203)
 
 * McGilp, L., Haas, M.W., Shao, M., Millas, R., Castell-Miller, C., Kern, A.J., Shannon, L.M. and Kimball, J.A. (2025), Towards Stewardship of Wild Species and Their Domesticated Counterparts: A Case Study in Northern Wild Rice (Zizania palustris L.). Ecol Evol, 15: e71033. [https://doi.org/10.1002/ece3.71033](https://doi.org/10.1002/ece3.71033)
 
