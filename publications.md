@@ -5,8 +5,7 @@ bigimg: "/img/folks_in_field.png"
 ---
 
 ### 2025
-* Coronejo S, Vaillancourt B, Hamilton JP, Meng X, Mailloux K, Christiansen G, et al. Potato dihaploids uncover diverse alleles to facilitate diploid potato breeding [Internet]. Plant Biology; 2025 [cited 2025 Aug 7]. [http://biorxiv.org/lookup/doi/10.1101/2025.08.06.668948](http://biorxiv.org/lookup/doi/10.1101/2025.08.06.668948)
-
+* Coronejo, Sapphire, Brieanne Vaillancourt, John P. Hamilton, et al. “Potato Dihaploids Uncover Diverse Alleles to Facilitate Diploid Potato Breeding.” bioRxiv, January 1, 2025, 2025.08.06.668948. [http://biorxiv.org/lookup/doi/10.1101/2025.08.06.668948](http://biorxiv.org/lookup/doi/10.1101/2025.08.06.668948)
 
 * Yusuf, M., Meng, X., Stefaniak, T. R., Montesinos-López, O. A., & Shannon, L. M. (2025). Leveraging unmanned aerial vehicle derived multispectral data for improved genomic prediction in potato (Solanum tuberosum). The Plant Genome, 18, e70082.  [https://doi.org/10.1002/tpg2.70082](https://doi.org/10.1002/tpg2.70082)
 
