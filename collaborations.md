@@ -26,7 +26,7 @@ We are part of an international collaboration including 8 US institutions, 3 int
 
 <figure>
 <div style="float: center; padding-top: 25px; padding-bottom: 25px">
-	<img src="/img/polyploid_tools_meeting.png" width="600" alt="Photos of the members of the polyploid tools group" align="center">
+	<img src="/img/Screenshot_2025-11-07_at_3.20.08_PM-removebg-preview.png" width="400" alt="Photos of the members of the polyploid tools group" align="center">
 </div>
 </figure>
 
