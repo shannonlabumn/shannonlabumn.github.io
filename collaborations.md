@@ -23,3 +23,17 @@ Working with collaborators at UW, MSU, USDA-ARS, Cornell, OSU and U Maine, we're
 [Tools for Polyploids](https://www.polyploids.org/) - Tools for Genomic Analysis Built and Adapted for Polyploid Genomes
 <br/>
 We are part of an international collaboration including 8 US institutions, 3 international institutions, CIGAR, and multiple industry partnerships, to develop computational tools for genetic analysis which will support the breeding of polyploid crops.  The potato team is particularly focused on implementing genomic selection on a large scale in multiple programs. Our lab will develop models for GS in MN for red, russet, and chipping potatoes.
+
+<figure>
+<div style="float: center; padding-top: 25px; padding-bottom: 25px">
+	<img src="/img/polyploid_tools_meeting.png" width="600" alt="Photos of the members of the polyploid tools group" align="center">
+</div>
+</figure>
+
+[INTER-SOL](https://site.caes.uga.edu/intersol/) - 
+We are collaborating with teams from UGA, CSU, UF, USDA ARS, Montana State, Cornell Univeristy, and Rutgers University as a part of the INTER-SOL project. The main objectives of this initiative include:
+1. Characterize non-host resistance to major problematic pathogen groups of Solanaceae crops.
+   e.g. _Alternaria, Phytophthora, and Xanthomonas_
+2. Identify the genetic components of non-host resistance for translational introduction via genome editing, transgenics, or targeted conventional breeding.
+3. Develop potato, tomato, and pepper lines with novel disease resistances for use in breeding programs.
+<br/>
