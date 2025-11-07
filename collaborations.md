@@ -25,7 +25,7 @@ Working with collaborators at UW, MSU, USDA-ARS, Cornell, OSU and U Maine, we're
 We are part of an international collaboration including 8 US institutions, 3 international institutions, CIGAR, and multiple industry partnerships, to develop computational tools for genetic analysis which will support the breeding of polyploid crops.  The potato team is particularly focused on implementing genomic selection on a large scale in multiple programs. Our lab will develop models for GS in MN for red, russet, and chipping potatoes.
 
 <figure>
-<div style="float: center; padding-top: 25px; padding-bottom: 15px">
+<div style="float: center; padding-top: 25px; padding-bottom: 2px">
 	<img src="/img/Screenshot_2025-11-07_at_3.20.08_PM-removebg-preview.png" width="300" alt="Photos of the members of the polyploid tools group" align="center">
 </div>
 </figure>
