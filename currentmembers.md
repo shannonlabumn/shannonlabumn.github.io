@@ -9,7 +9,7 @@ bigimg: "/img/groupPhoto2023_cropped.jpeg"
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/laura.jpg" width="200" alt="" align="left">
+	<img src="/img/251016 LauraS 103-Edit.jpg" width="200" alt="" align="left">
 </div>
 </figure>
 
