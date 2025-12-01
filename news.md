@@ -5,6 +5,7 @@ bigimg: "/img/harvest_MAES2.png"
 ---
 
 ### 2025
+* [They would grow 4 U: Farmers have high hopes for Prince’s namesake purple potato]([https://heyzine.com/flip-book/64bb9a52ec.html#page/24](https://www.startribune.com/minnesota-grown-purple-paisley-potato-prince-mpls-restaurant-alma/601527778?utm_source=copy)) - November 2025
 * [Plant Breeding Center 2024 Year in Review - Faculty Profile: Dr. Laura Shannon](https://heyzine.com/flip-book/64bb9a52ec.html#page/24) - February 2025
 * [Potato Apotheosis](https://libnews.umn.edu/2025/01/potato-apotheosis/) - January 2025
 
