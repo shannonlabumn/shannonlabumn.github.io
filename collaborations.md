@@ -37,3 +37,12 @@ We are collaborating with teams from UGA, CSU, UF, USDA ARS, Montana State, Corn
 2. Identify the genetic components of non-host resistance for translational introduction via genome editing, transgenics, or targeted conventional breeding.
 3. Develop potato, tomato, and pepper lines with novel disease resistances for use in breeding programs.
 <br/>
+
+[Investigating R3bv2 host dynamics and persistence under environmental stress](https://mitppc.umn.edu/research/research-projects/investigating-ralstonia-host-dynamics-and-persistence-under) - 
+In collaboration with Dr. Devanshi Khokhani in the Department of Plant Pathology at the University of Minnesota and the Minnesota Department of Agriculture, we aim to answer the following:
+1. How does Minnesota’s climate affect the pathogen’s ability to survive in both commercial potatoes and wild nightshades?
+2. When and where is the pathogen most likely to persist or die off?
+3. What are the differences between different strains of the pathogen? Is one more dangerous than another?
+4. What are the best practical, field-ready tools to detect infections early?
+5. Which potato varieties are least susceptible?
+<br/>
