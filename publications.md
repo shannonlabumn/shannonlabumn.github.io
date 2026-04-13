@@ -3,10 +3,12 @@ layout: page
 title: Publications
 bigimg: "/img/folks_in_field.png"
 ---
+### 2026
+* Bower-Jernigan Litschewski, L., Anderson, N. O., & Shannon, L. M. (2026). The Arctic Daisy, Chrysanthemum arcticum, Trifecta Is a Genetically Variable Polyploid Series. Genes, 17(4), 444. [https://doi.org/10.3390/genes17040444](https://doi.org/10.3390/genes17040444)
 
-### 2025
 * Coronejo, S., Vaillancourt, B., Hamilton, J. P., Meng, X., Mailloux, K., Christensen, G., Huege, J., Shaw, K. M., Agha, H. I., Alaba, O., Brown-Donovan, K., Busse, J. S., Hamernik, A., Caraza-Harter, M. V., Heroux, L., Kardile, H. B., Knoeck, E., Sorensen, P. L., Spencer, D., … Shannon, L. M. (2026). Potato dihaploids uncover diverse alleles to facilitate diploid potato breeding. The Plant Genome, 19, e70169.  [https://doi.org/10.1002/tpg2.70169](https://doi.org/10.1002/tpg2.70169)
 
+### 2025
 * Yusuf, M., Meng, X., Stefaniak, T. R., Montesinos-López, O. A., & Shannon, L. M. (2025). Leveraging unmanned aerial vehicle derived multispectral data for improved genomic prediction in potato (Solanum tuberosum). The Plant Genome, 18, e70082.  [https://doi.org/10.1002/tpg2.70082](https://doi.org/10.1002/tpg2.70082)
 
 * Vanessa Kambi, Chengyan Yue, Yang Wang, Laura Shannon, Investigating US Potato Farmers’ Preferences for True Potato Seeds, Journal of Agriculture and Food Research, 2025, 102203, ISSN 2666-1543. [https://doi.org/10.1016/j.jafr.2025.102203](https://doi.org/10.1016/j.jafr.2025.102203)
