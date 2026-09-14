@@ -4,6 +4,8 @@ title: Publications
 bigimg: "/img/folks_in_field.png"
 ---
 ### 2026
+* Kaur, H., Dornbusch, M., Shannon, L. M., & Samac, D. A. (2026). Impact of increased population size and three reference genomes on the development of linkage maps in alfalfa. Crop Science, 66, e70361. [https://doi.org/10.1002/csc2.70361](https://doi.org/10.1002/csc2.70361)
+
 * Bower-Jernigan Litschewski, L., Anderson, N. O., & Shannon, L. M. (2026). The Arctic Daisy, Chrysanthemum arcticum, Trifecta Is a Genetically Variable Polyploid Series. Genes, 17(4), 444. [https://doi.org/10.3390/genes17040444](https://doi.org/10.3390/genes17040444)
 
 * Coronejo, S., Vaillancourt, B., Hamilton, J. P., Meng, X., Mailloux, K., Christensen, G., Huege, J., Shaw, K. M., Agha, H. I., Alaba, O., Brown-Donovan, K., Busse, J. S., Hamernik, A., Caraza-Harter, M. V., Heroux, L., Kardile, H. B., Knoeck, E., Sorensen, P. L., Spencer, D., … Shannon, L. M. (2026). Potato dihaploids uncover diverse alleles to facilitate diploid potato breeding. The Plant Genome, 19, e70169.  [https://doi.org/10.1002/tpg2.70169](https://doi.org/10.1002/tpg2.70169)
